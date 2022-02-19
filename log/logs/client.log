@@ -1,0 +1,834 @@
+2022-01-29 14:24:39,386 CRITICAL config_client_log.py Критическая ошибка
+2022-01-29 14:24:39,386 ERROR config_client_log.py Ошибка
+2022-01-29 14:24:39,386 DEBUG config_client_log.py Отладочная информация
+2022-01-29 14:24:39,386 INFO config_client_log.py Информационное сообщение
+2022-01-29 14:29:22,921 INFO client.py 200 : OK
+2022-01-29 14:30:29,155 INFO client.py 200 : OK
+2022-01-29 17:49:26,364 CRITICAL config_client_log.py Критическая ошибка
+2022-01-29 17:49:26,364 ERROR config_client_log.py Ошибка
+2022-01-29 17:49:26,364 DEBUG config_client_log.py Отладочная информация
+2022-01-29 17:49:26,364 INFO config_client_log.py Информационное сообщение
+2022-01-29 19:58:58,098 DEBUG client.py Была вызвана функция __get_settings c параметрами (<__main__.Client object at 0x0000027FB0F05DB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции get_transport
+2022-01-29 19:58:58,101 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x0000027FB0F05DB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции send_message
+2022-01-29 19:58:58,103 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x0000027FB0F05DB0>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции send_message
+2022-01-29 19:58:58,108 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x0000027FB0F05DB0>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции send_message
+2022-01-29 19:58:58,108 INFO client.py 200 : OK
+2022-01-29 19:58:58,109 DEBUG client.py Была вызвана функция send_message c параметрами (<__main__.Client object at 0x0000027FB0F05DB0>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-01-29 20:00:57,251 DEBUG client.py Была вызвана функция __get_settings c параметрами (<__main__.Client object at 0x000001CF985D5DB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции get_transport
+2022-01-29 20:00:57,254 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001CF985D5DB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции send_message
+2022-01-29 20:00:57,256 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001CF985D5DB0>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции send_message
+2022-01-29 20:00:57,263 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000001CF985D5DB0>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции send_message
+2022-01-29 20:00:57,264 INFO client.py 200 : OK
+2022-01-29 20:00:57,265 DEBUG client.py Была вызвана функция send_message c параметрами (<__main__.Client object at 0x000001CF985D5DB0>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-01-29 20:01:23,750 DEBUG client.py Была вызвана функция __get_settings c параметрами (<__main__.Client object at 0x00000192EDCD5DB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции get_transport
+2022-01-29 20:01:23,753 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x00000192EDCD5DB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции send_message
+2022-01-29 20:01:23,755 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x00000192EDCD5DB0>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции send_message
+2022-01-29 20:01:23,762 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x00000192EDCD5DB0>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции send_message
+2022-01-29 20:01:23,762 INFO client.py 200 : OK
+2022-01-29 20:01:23,764 DEBUG client.py Была вызвана функция send_message c параметрами (<__main__.Client object at 0x00000192EDCD5DB0>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 01:06:49,744 ERROR client.py invalid literal for int() with base 10: 'send'
+2022-02-05 01:06:49,744 ERROR client.py invalid literal for int() with base 10: 'send'
+2022-02-05 01:06:49,760 ERROR client.py invalid literal for int() with base 10: 'listen'
+2022-02-05 01:06:49,791 ERROR client.py invalid literal for int() with base 10: 'listen'
+2022-02-05 01:14:12,621 ERROR client.py invalid literal for int() with base 10: 'send'
+
+2022-02-05 01:14:12,621 ERROR client.py invalid literal for int() with base 10: 'send'
+2022-02-05 01:14:12,640 ERROR client.py invalid literal for int() with base 10: 'listen'
+2022-02-05 01:15:47,769 ERROR client.py invalid literal for int() with base 10: 'send'
+
+2022-02-05 01:22:39,266 ERROR client.py invalid literal for int() with base 10: 'listen'
+2022-02-05 01:22:39,266 ERROR client.py invalid literal for int() with base 10: 'listen'
+2022-02-05 01:22:39,266 ERROR client.py invalid literal for int() with base 10: 'send'
+2022-02-05 01:25:40,261 ERROR client.py invalid literal for int() with base 10: 'send'
+2022-02-05 01:34:42,356 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001AE14D46DA0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 01:34:42,356 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001AE14D46DA0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 01:34:42,356 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001AE14D46DA0>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 01:43:29,507 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x0000017A15512FE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 01:43:35,401 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x0000017A15512FE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 01:43:38,389 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x0000017A15512FE0>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 01:44:50,346 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x0000027FC5802FE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 01:44:55,602 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x0000027FC5802FE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 01:45:07,784 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x0000027FC5802FE0>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 01:46:56,792 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x00000218F75A2FE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 01:46:56,792 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x00000218F75A2FE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 01:46:56,792 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x00000218F75A2FE0>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 01:47:13,093 ERROR client.py Не удалось декодировать сообщение сервера.
+2022-02-05 01:47:55,984 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001A87FD82FE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 01:47:55,984 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001A87FD82FE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 01:47:55,984 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001A87FD82FE0>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 01:48:54,496 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001F014992FB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 01:48:54,512 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001F014992FB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 01:48:54,512 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001F014992FB0>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 01:51:00,550 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001D63F273A90>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 01:51:00,566 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001D63F273A90>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 01:51:00,566 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001D63F273A90>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 01:56:40,923 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x0000019DC4602FB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 01:56:40,923 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x0000019DC4602FB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 01:56:40,938 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x0000019DC4602FB0>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 01:57:04,397 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x0000019DC4602FB0>, {'response': 400, 'error': 'Bad Request'}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 01:57:04,397 INFO client.py Установлено соединение с сервером. Ответ сервера: 400 : Bad Request
+2022-02-05 01:58:19,578 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001921B742FB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 01:58:19,578 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001921B742FB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 01:58:19,578 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001921B742FB0>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 01:59:43,564 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001E2DB3C2FE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 01:59:43,564 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001E2DB3C2FE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 01:59:43,564 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001E2DB3C2FE0>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 01:59:48,573 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000001E2DB3C2FE0>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 01:59:48,573 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 02:02:13,728 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001EC10CD6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 02:02:13,728 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001EC10CD6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 02:02:13,728 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001EC10CD6D70>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 02:02:13,746 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x0000026AFDAF6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 02:02:13,746 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x0000026AFDAF6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 02:02:13,746 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x0000026AFDAF6D70>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 02:02:13,746 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000001EC10CD6D70>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 02:02:13,746 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 02:02:14,252 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x0000026AFDAF6D70>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 02:02:14,252 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 02:02:14,769 ERROR client.py Соединение с сервером 127.0.0.1 было потеряно.
+2022-02-05 02:05:54,425 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x0000019B4D206D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 02:05:54,441 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x0000019B4D206D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 02:05:54,441 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x0000019B4D206D70>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 02:05:54,457 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x00000205C5426D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 02:05:54,457 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x00000205C5426D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 02:05:54,457 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x00000205C5426D70>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 02:05:54,457 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x0000019B4D206D70>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 02:05:54,457 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 02:05:54,972 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x00000205C5426D70>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 02:05:54,972 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 02:05:55,478 ERROR client.py Соединение с сервером 127.0.0.1 было потеряно.
+2022-02-05 02:06:29,040 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001AB792B6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 02:06:29,048 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x00000279C7B56DA0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 02:06:29,052 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x00000279C7B56DA0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 02:06:29,054 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x00000279C7B56DA0>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 02:06:29,549 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001AB792B6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 02:06:29,549 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001AB792B6D70>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 02:06:29,549 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x00000279C7B56DA0>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 02:06:29,549 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 02:06:30,063 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000001AB792B6D70>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 02:06:30,063 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 02:06:30,572 ERROR client.py Соединение с сервером 127.0.0.1 было потеряно.
+2022-02-05 02:08:13,499 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x00000239CF8B6E30>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 02:08:13,549 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001B6A97C6DA0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 02:08:13,553 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001B6A97C6DA0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 02:08:13,555 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001B6A97C6DA0>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 02:08:14,018 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x00000239CF8B6E30>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 02:08:14,018 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x00000239CF8B6E30>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 02:08:14,018 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000001B6A97C6DA0>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 02:08:14,018 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 02:08:14,532 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x00000239CF8B6E30>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 02:08:14,532 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 02:35:21,055 ERROR client.py Соединение с сервером 127.0.0.1 было потеряно.
+2022-02-05 12:14:09,046 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x0000028440E02FE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 12:16:07,072 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001B12D7A2FE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 12:16:07,088 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001B12D7A2FE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:16:07,088 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001B12D7A2FE0>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:16:07,572 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000001B12D7A2FE0>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:16:07,572 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 12:20:48,420 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x0000021B11792FE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 12:20:48,435 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x0000021B11792FE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:20:48,435 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x0000021B11792FE0>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:20:48,920 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x0000021B11792FE0>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:20:48,920 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 12:21:04,141 DEBUG client.py Сформирован словарь сообщения: {'action': 'message', 'time': 1644052864.1419744, 'account_name': 'Super man', 'Hello, friend!': 'test test'}
+2022-02-05 12:21:04,141 DEBUG client.py Была вызвана функция create_message c параметрами (<__main__.Client object at 0x0000021B11792FE0>, <socket.socket fd=276, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 54664), raddr=('127.0.0.1', 7778)>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:23:11,998 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x0000024979AE3010>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 12:23:11,998 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x0000024979AE3010>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:23:11,998 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x0000024979AE3010>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:23:12,508 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x0000024979AE3010>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:23:12,508 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 12:23:24,432 DEBUG client.py Сформирован словарь сообщения: {'action': 'message', 'time': 1644053004.4327774, 'account_name': 'Super man', 'mess_text': 'Test privet'}
+2022-02-05 12:23:24,434 DEBUG client.py Была вызвана функция create_message c параметрами (<__main__.Client object at 0x0000024979AE3010>, <socket.socket fd=672, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 54967), raddr=('127.0.0.1', 7778)>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:25:25,645 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x0000025725AA6DA0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 12:25:25,661 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x0000025725AA6DA0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:25:25,661 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x0000025725AA6DA0>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:25:25,661 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001CD11AC6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 12:25:25,677 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001CD11AC6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:25:25,677 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001CD11AC6D70>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:25:25,677 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x0000025725AA6DA0>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:25:25,677 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 12:25:26,187 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000001CD11AC6D70>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:25:26,187 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 12:25:43,855 DEBUG client.py Сформирован словарь сообщения: {'action': 'message', 'time': 1644053143.8556678, 'account_name': 'Super man', 'mess_text': 'Privet, frend'}
+2022-02-05 12:25:43,855 DEBUG client.py Была вызвана функция create_message c параметрами (<__main__.Client object at 0x0000025725AA6DA0>, <socket.socket fd=724, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55259), raddr=('127.0.0.1', 7778)>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:25:44,043 INFO client.py Получено сообщение от пользователя Super man:
+Privet, frend
+2022-02-05 12:25:44,043 DEBUG client.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x000001CD11AC6D70>, {'action': 'message', 'sender': 'Super man', 'time': 1644053144.0430613, 'mess_text': 'Privet, frend'}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:26:11,702 DEBUG client.py Сформирован словарь сообщения: {'action': 'message', 'time': 1644053171.702512, 'account_name': 'Super man', 'mess_text': 'Какдела?'}
+2022-02-05 12:26:11,702 DEBUG client.py Была вызвана функция create_message c параметрами (<__main__.Client object at 0x0000025725AA6DA0>, <socket.socket fd=724, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55259), raddr=('127.0.0.1', 7778)>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:26:12,087 INFO client.py Получено сообщение от пользователя Super man:
+Какдела?
+2022-02-05 12:26:12,087 DEBUG client.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x000001CD11AC6D70>, {'action': 'message', 'sender': 'Super man', 'time': 1644053172.0872843, 'mess_text': 'Какдела?'}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:26:17,401 DEBUG client.py Сформирован словарь сообщения: {'action': 'message', 'time': 1644053177.40154, 'account_name': 'Super man', 'mess_text': 'Как дела?'}
+2022-02-05 12:26:17,401 DEBUG client.py Была вызвана функция create_message c параметрами (<__main__.Client object at 0x0000025725AA6DA0>, <socket.socket fd=724, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55259), raddr=('127.0.0.1', 7778)>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:26:17,686 INFO client.py Получено сообщение от пользователя Super man:
+Как дела?
+2022-02-05 12:26:17,686 DEBUG client.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x000001CD11AC6D70>, {'action': 'message', 'sender': 'Super man', 'time': 1644053177.6862447, 'mess_text': 'Как дела?'}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:33:53,829 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x0000014334BC6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 12:33:53,829 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x0000014334BC6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:33:53,829 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x0000014334BC6D70>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:33:53,844 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x0000015B27A96D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 12:33:53,844 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x0000015B27A96D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:33:53,844 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x0000015B27A96D70>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:33:53,844 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x0000014334BC6D70>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:33:53,844 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 12:33:54,353 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x0000015B27A96D70>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:33:54,353 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 12:34:18,196 DEBUG client.py Сформирован словарь сообщения: {'action': 'message', 'time': 1644053658.1961796, 'account_name': 'Super man', 'mess_text': 'Привет!'}
+2022-02-05 12:34:18,196 DEBUG client.py Была вызвана функция create_message c параметрами (<__main__.Client object at 0x0000015B27A96D70>, <socket.socket fd=644, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 56361), raddr=('127.0.0.1', 7778)>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:34:18,258 INFO client.py Получено сообщение от пользователя Super man:
+Привет!
+2022-02-05 12:34:18,258 DEBUG client.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x0000014334BC6D70>, {'action': 'message', 'sender': 'Super man', 'time': 1644053658.258652, 'mess_text': 'Привет!'}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:37:48,561 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x0000023F33AD6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 12:37:48,561 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x0000023F33AD6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:37:48,561 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x0000023F33AD6D70>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:37:48,593 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000002B0DCAC6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 12:37:48,593 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000002B0DCAC6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:37:48,593 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000002B0DCAC6D70>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:37:48,593 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x0000023F33AD6D70>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:37:48,593 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 12:37:49,106 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000002B0DCAC6D70>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:37:49,106 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 12:38:00,809 DEBUG client.py Сформирован словарь сообщения: {'action': 'message', 'time': 1644053880.8091488, 'account_name': 'Super man', 'mess_text': 'test !!!'}
+2022-02-05 12:38:00,809 DEBUG client.py Была вызвана функция create_message c параметрами (<__main__.Client object at 0x0000023F33AD6D70>, <socket.socket fd=716, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 56877), raddr=('127.0.0.1', 7778)>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:38:01,287 INFO client.py Получено сообщение от пользователя Super man:
+test !!!
+2022-02-05 12:38:01,287 DEBUG client.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x000002B0DCAC6D70>, {'action': 'message', 'sender': 'Super man', 'time': 1644053881.2870088, 'mess_text': 'test !!!'}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:38:24,060 INFO client.py Завершение работы по команде пользователя.
+2022-02-05 12:46:20,389 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001E7FFC16D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 12:46:20,389 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001E7FFC16D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:46:20,405 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001E7FFC16D70>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:46:20,405 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001E88FC16D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 12:46:20,405 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001E88FC16D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:46:20,405 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001E88FC16D70>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:46:20,405 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000001E7FFC16D70>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:46:20,405 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 12:46:20,915 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000001E88FC16D70>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:46:20,915 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 12:46:44,270 DEBUG client.py Сформирован словарь сообщения: {'action': 'message', 'time': 1644054404.27029, 'account_name': 'Super man', 'mess_text': 'Privet'}
+2022-02-05 12:46:44,270 DEBUG client.py Была вызвана функция create_message c параметрами (<__main__.Client object at 0x000001E7FFC16D70>, <socket.socket fd=732, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 57996), raddr=('127.0.0.1', 7778)>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:46:44,358 INFO client.py Получено сообщение от пользователя Super man:
+Privet
+2022-02-05 12:46:44,358 DEBUG client.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x000001E88FC16D70>, {'action': 'message', 'sender': 'Super man', 'time': 1644054404.3580744, 'mess_text': 'Privet'}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:48:24,927 INFO client.py Завершение работы по команде пользователя.
+2022-02-05 12:49:01,520 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001E8BB606DD0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 12:49:01,520 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x0000016FC6306D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 12:49:02,037 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x0000016FC6306D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:49:02,037 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001E8BB606DD0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:49:02,037 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x0000016FC6306D70>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:49:02,037 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001E8BB606DD0>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:50:26,056 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001A175566D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 12:50:26,056 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001A175566D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:50:26,056 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001BFE8FB6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 12:50:26,072 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001A175566D70>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:50:26,072 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001BFE8FB6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:50:26,072 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001BFE8FB6D70>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:51:38,967 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x00000175482D6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 12:51:38,967 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x00000175482D6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:51:38,983 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x00000175482D6D70>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:51:38,983 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x0000028300DB6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 12:51:38,983 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x0000028300DB6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:51:38,983 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x0000028300DB6D70>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:51:38,998 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x00000175482D6D70>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:51:38,998 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 12:51:39,492 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x0000028300DB6D70>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:51:39,492 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 12:51:52,972 DEBUG client.py Сформирован словарь сообщения: {'action': 'message', 'time': 1644054712.9724402, 'account_name': 'Super man', 'mess_text': 'Privet'}
+2022-02-05 12:51:52,972 DEBUG client.py Была вызвана функция create_message c параметрами (<__main__.Client object at 0x00000175482D6D70>, <socket.socket fd=588, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58716), raddr=('127.0.0.1', 7778)>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:51:53,263 INFO client.py Получено сообщение от пользователя Super man:
+Privet
+2022-02-05 12:51:53,263 DEBUG client.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x0000028300DB6D70>, {'action': 'message', 'sender': 'Super man', 'time': 1644054713.2639906, 'mess_text': 'Privet'}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:56:52,758 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x0000024C5A926D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 12:56:52,758 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x0000024C5A926D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:56:52,758 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x0000024C5A926D70>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:56:52,791 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x0000024193566D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 12:56:52,794 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x0000024193566D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:56:52,794 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x0000024193566D70>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:56:52,794 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x0000024C5A926D70>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:56:52,794 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 12:56:53,301 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x0000024193566D70>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:56:53,302 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 12:57:07,581 DEBUG client.py Сформирован словарь сообщения: {'action': 'message', 'time': 1644055027.581842, 'account_name': 'Super man', 'mess_text': 'test'}
+2022-02-05 12:57:07,581 DEBUG client.py Была вызвана функция create_message c параметрами (<__main__.Client object at 0x0000024C5A926D70>, <socket.socket fd=696, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59411), raddr=('127.0.0.1', 7778)>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 12:57:08,031 INFO client.py Получено сообщение от пользователя Super man:
+test
+2022-02-05 12:57:08,031 DEBUG client.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x0000024193566D70>, {'action': 'message', 'sender': 'Super man', 'time': 1644055028.0314343, 'mess_text': 'test'}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:03:43,864 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x0000016C6DA86D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 13:03:43,864 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x0000016C6DA86D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:03:43,864 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x0000016C6DA86D70>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:03:43,879 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x00000256A9DC6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 13:03:43,879 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x00000256A9DC6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:03:43,879 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x00000256A9DC6D70>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:03:43,879 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x0000016C6DA86D70>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:03:43,879 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 13:03:44,394 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x00000256A9DC6D70>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:03:44,394 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 13:04:08,231 DEBUG client.py Сформирован словарь сообщения: {'action': 'message', 'time': 1644055448.231696, 'account_name': 'Super man', 'text': 'Hello!'}
+2022-02-05 13:04:08,231 DEBUG client.py Была вызвана функция create_message c параметрами (<__main__.Client object at 0x0000016C6DA86D70>, <socket.socket fd=556, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 60297), raddr=('127.0.0.1', 7778)>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:04:08,315 INFO client.py Получено сообщение от пользователя Super man:
+Hello!
+2022-02-05 13:04:08,317 DEBUG client.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x00000256A9DC6D70>, {'action': 'message', 'sender': 'Super man', 'time': 1644055448.3144073, 'text': 'Hello!'}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:10:20,893 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x0000021F9DFD6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 13:10:20,893 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x0000021F9DFD6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:10:20,893 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x0000021F9DFD6D70>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:10:20,913 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000002454B736D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 13:10:20,913 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000002454B736D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:10:20,913 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x0000021F9DFD6D70>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:10:20,913 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 13:10:20,913 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000002454B736D70>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:10:21,421 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000002454B736D70>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:10:21,421 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 13:10:37,971 DEBUG client.py Сформирован словарь сообщения: {'action': 'message', 'time': 1644055837.971926, 'account_name': 'Super man', 'text': ''}
+2022-02-05 13:10:37,971 DEBUG client.py Была вызвана функция create_message c параметрами (<__main__.Client object at 0x0000021F9DFD6D70>, <socket.socket fd=512, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 61377), raddr=('127.0.0.1', 7778)>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:10:38,215 INFO client.py Получено сообщение от пользователя Super man:
+
+2022-02-05 13:10:38,215 DEBUG client.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x000002454B736D70>, {'action': 'message', 'sender': 'Super man', 'time': 1644055838.215405, 'text': ''}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:12:09,804 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x00000158F96B6DD0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 13:12:09,804 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x00000158F96B6DD0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:12:09,804 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x0000021E7A8A6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 13:12:09,804 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x00000158F96B6DD0>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:12:09,820 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001A8E5BE6DA0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 13:12:09,820 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x0000021E7A8A6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:12:09,820 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001A8E5BE6DA0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:12:09,820 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x00000158F96B6DD0>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:12:09,820 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x0000021E7A8A6D70>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:12:09,820 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 13:12:09,820 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001A8E5BE6DA0>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:12:09,835 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x00000213CE1C6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 13:12:09,835 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x00000213CE1C6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:12:09,835 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x00000213CE1C6D70>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:12:09,835 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x0000021E7A8A6D70>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:12:09,835 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 13:12:09,835 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000001A8E5BE6DA0>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:12:09,835 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 13:12:10,340 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x00000213CE1C6D70>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:12:10,340 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 13:12:28,310 DEBUG client.py Сформирован словарь сообщения: {'action': 'message', 'time': 1644055948.3107967, 'account_name': 'Super man', 'text': 'Privet'}
+2022-02-05 13:12:28,312 DEBUG client.py Была вызвана функция create_message c параметрами (<__main__.Client object at 0x000001A8E5BE6DA0>, <socket.socket fd=884, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 61636), raddr=('127.0.0.1', 7778)>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:12:28,660 INFO client.py Получено сообщение от пользователя Super man:
+Privet
+2022-02-05 13:12:28,660 INFO client.py Получено сообщение от пользователя Super man:
+Privet
+2022-02-05 13:12:28,660 DEBUG client.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x00000213CE1C6D70>, {'action': 'message', 'sender': 'Super man', 'time': 1644055948.6600025, 'text': 'Privet'}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:12:28,660 DEBUG client.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x0000021E7A8A6D70>, {'action': 'message', 'sender': 'Super man', 'time': 1644055948.6600025, 'text': 'Privet'}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:12:44,608 DEBUG client.py Сформирован словарь сообщения: {'action': 'message', 'time': 1644055964.6085591, 'account_name': 'Super man', 'text': 'Poka!'}
+2022-02-05 13:12:44,624 DEBUG client.py Была вызвана функция create_message c параметрами (<__main__.Client object at 0x00000158F96B6DD0>, <socket.socket fd=784, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 61634), raddr=('127.0.0.1', 7778)>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:12:44,950 INFO client.py Получено сообщение от пользователя Super man:
+Poka!
+2022-02-05 13:12:44,950 INFO client.py Получено сообщение от пользователя Super man:
+Poka!
+2022-02-05 13:12:44,950 DEBUG client.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x0000021E7A8A6D70>, {'action': 'message', 'sender': 'Super man', 'time': 1644055964.9503975, 'text': 'Poka!'}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:12:44,950 DEBUG client.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x00000213CE1C6D70>, {'action': 'message', 'sender': 'Super man', 'time': 1644055964.9503975, 'text': 'Poka!'}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:13:19,634 DEBUG client.py Сформирован словарь сообщения: {'action': 'message', 'time': 1644055999.634044, 'account_name': 'Super man', 'text': 'Kak dela?'}
+2022-02-05 13:13:19,650 DEBUG client.py Была вызвана функция create_message c параметрами (<__main__.Client object at 0x000001A8E5BE6DA0>, <socket.socket fd=884, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 61636), raddr=('127.0.0.1', 7778)>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:13:20,096 INFO client.py Получено сообщение от пользователя Super man:
+Kak dela?
+2022-02-05 13:13:20,096 INFO client.py Получено сообщение от пользователя Super man:
+Kak dela?
+2022-02-05 13:13:20,096 DEBUG client.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x0000021E7A8A6D70>, {'action': 'message', 'sender': 'Super man', 'time': 1644056000.0965874, 'text': 'Kak dela?'}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:13:20,096 DEBUG client.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x00000213CE1C6D70>, {'action': 'message', 'sender': 'Super man', 'time': 1644056000.0965874, 'text': 'Kak dela?'}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:24:19,779 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000002048F106DD0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 13:24:19,794 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000002048F106DD0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:24:19,794 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000002048F106DD0>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:24:19,794 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x0000020CC42F6DA0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 13:24:19,794 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x0000020CC42F6DA0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:24:19,794 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x00000240F4F96D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 13:24:19,794 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x0000020CC42F6DA0>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:24:19,810 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000002048F106DD0>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:24:19,810 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 13:24:19,810 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x00000240F4F96D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:24:19,810 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x0000025E847A6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 13:24:19,810 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x0000020CC42F6DA0>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:24:19,810 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 13:24:19,810 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x00000240F4F96D70>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:24:19,810 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x0000025E847A6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:24:19,810 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x0000025E847A6D70>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:24:20,323 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x00000240F4F96D70>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:24:20,323 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 13:24:20,323 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x0000025E847A6D70>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:24:20,323 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 13:24:32,655 DEBUG client.py Сформирован словарь сообщения: {'action': 'message', 'time': 1644056672.6545162, 'account_name': 'Super man', 'text': 'privet'}
+2022-02-05 13:24:32,657 DEBUG client.py Была вызвана функция create_message c параметрами (<__main__.Client object at 0x00000240F4F96D70>, <socket.socket fd=832, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 63374), raddr=('127.0.0.1', 7778)>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:24:33,051 INFO client.py Получено сообщение от пользователя Super man:
+privet
+2022-02-05 13:24:33,051 INFO client.py Получено сообщение от пользователя Super man:
+privet
+2022-02-05 13:24:33,051 DEBUG client.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x0000020CC42F6DA0>, {'action': 'message', 'sender': 'Super man', 'time': 1644056673.0518854, 'text': 'privet'}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:24:33,051 DEBUG client.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x0000025E847A6D70>, {'action': 'message', 'sender': 'Super man', 'time': 1644056673.0518854, 'text': 'privet'}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:24:51,362 DEBUG client.py Сформирован словарь сообщения: {'action': 'message', 'time': 1644056691.3623002, 'account_name': 'Super man', 'text': 'kak delsa?'}
+2022-02-05 13:24:51,377 DEBUG client.py Была вызвана функция create_message c параметрами (<__main__.Client object at 0x000002048F106DD0>, <socket.socket fd=336, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 63372), raddr=('127.0.0.1', 7778)>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:24:51,859 INFO client.py Получено сообщение от пользователя Super man:
+kak delsa?
+2022-02-05 13:24:51,859 INFO client.py Получено сообщение от пользователя Super man:
+kak delsa?
+2022-02-05 13:24:51,859 DEBUG client.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x0000020CC42F6DA0>, {'action': 'message', 'sender': 'Super man', 'time': 1644056691.8596106, 'text': 'kak delsa?'}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:24:51,859 DEBUG client.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x0000025E847A6D70>, {'action': 'message', 'sender': 'Super man', 'time': 1644056691.8596106, 'text': 'kak delsa?'}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:25:03,597 DEBUG client.py Сформирован словарь сообщения: {'action': 'message', 'time': 1644056703.5979905, 'account_name': 'Super man', 'text': 'whatsapp!'}
+2022-02-05 13:25:03,599 DEBUG client.py Была вызвана функция create_message c параметрами (<__main__.Client object at 0x000002048F106DD0>, <socket.socket fd=336, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 63372), raddr=('127.0.0.1', 7778)>, 'Super man'), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:25:04,043 INFO client.py Получено сообщение от пользователя Super man:
+whatsapp!
+2022-02-05 13:25:04,043 INFO client.py Получено сообщение от пользователя Super man:
+whatsapp!
+2022-02-05 13:25:04,043 DEBUG client.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x0000020CC42F6DA0>, {'action': 'message', 'sender': 'Super man', 'time': 1644056704.043968, 'text': 'whatsapp!'}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 13:25:04,043 DEBUG client.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x0000025E847A6D70>, {'action': 'message', 'sender': 'Super man', 'time': 1644056704.043968, 'text': 'whatsapp!'}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции process_message
+2022-02-05 17:23:12,689 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x00000219A4886D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 17:23:12,689 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001D54CD66D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 17:23:12,689 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: SupeUser0
+2022-02-05 17:23:12,689 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: SupeUser1
+2022-02-05 17:23:12,705 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x00000219A4886D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:23:12,705 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001D54CD66D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:23:12,705 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x00000219A4886D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:23:12,705 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001D54CD66D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:23:13,212 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x00000219A4886D70>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:23:13,212 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 17:23:13,212 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000001D54CD66D70>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:23:13,212 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 17:23:13,212 DEBUG client.py Запущены процессы
+2022-02-05 17:23:13,212 DEBUG client.py Запущены процессы
+2022-02-05 17:23:47,481 DEBUG client.py Была вызвана функция start c параметрами (<__main__.Client object at 0x00000219A4886D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 17:23:47,481 DEBUG client.py Была вызвана функция start c параметрами (<__main__.Client object at 0x000001D54CD66D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 17:25:32,511 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000002097FDA3010>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 17:25:32,511 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_100
+2022-02-05 17:25:32,511 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000002097FDA3010>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:25:32,511 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000002097FDA3010>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:25:33,017 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000002097FDA3010>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:25:33,017 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 17:25:33,017 DEBUG client.py Запущены процессы
+2022-02-05 17:27:00,017 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000002C5B1582FE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 17:27:22,043 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_100
+2022-02-05 17:27:24,515 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000002C5B1582FE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:27:26,756 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000002C5B1582FE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:27:33,328 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000002C5B1582FE0>, {'response': 400, 'error': 'Имя пользователя уже занято.'}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:27:43,333 INFO client.py Установлено соединение с сервером. Ответ сервера: 400 : Имя пользователя уже занято.
+2022-02-05 17:27:56,300 DEBUG client.py Запущены процессы
+2022-02-05 17:28:06,128 DEBUG client.py Была вызвана функция start c параметрами (<__main__.Client object at 0x000002C5B1582FE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 17:44:19,597 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x0000024A97662FB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 17:44:22,230 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_100
+2022-02-05 17:44:22,230 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x0000024A97662FB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:44:22,230 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x0000024A97662FB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:44:22,738 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x0000024A97662FB0>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:44:22,738 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 17:44:22,738 DEBUG client.py Запущены процессы
+2022-02-05 17:44:28,781 DEBUG client.py Была вызвана функция start c параметрами (<__main__.Client object at 0x0000024A97662FB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 17:46:14,026 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001EEC0332FE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 17:46:14,026 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_100
+2022-02-05 17:46:14,026 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001EEC0332FE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:46:14,026 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001EEC0332FE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:46:14,540 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000001EEC0332FE0>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:46:14,540 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 17:46:23,843 DEBUG client.py Запущены процессы
+2022-02-05 17:46:24,850 DEBUG client.py Была вызвана функция start c параметрами (<__main__.Client object at 0x000001EEC0332FE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 17:48:06,954 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x0000024AE3C72FB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 17:48:06,954 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_100
+2022-02-05 17:48:06,954 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x0000024AE3C72FB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:48:06,954 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x0000024AE3C72FB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:48:07,462 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x0000024AE3C72FB0>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:48:07,462 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 17:48:09,387 DEBUG client.py Запущены процессы
+2022-02-05 17:48:49,639 DEBUG client.py Была вызвана функция start c параметрами (<__main__.Client object at 0x0000024AE3C72FB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 17:49:23,376 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x00000200B8F72FB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 17:49:23,376 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_100
+2022-02-05 17:49:23,376 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x00000200B8F72FB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:49:23,376 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x00000200B8F72FB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:49:23,877 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x00000200B8F72FB0>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:49:23,877 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 17:49:56,288 DEBUG client.py Запущены процессы
+2022-02-05 17:49:58,312 DEBUG client.py Была вызвана функция start c параметрами (<__main__.Client object at 0x00000200B8F72FB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 17:52:58,397 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x00000238121B2FE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 17:52:58,397 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_100
+2022-02-05 17:52:58,397 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x00000238121B2FE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:52:58,413 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x00000238121B2FE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:52:58,905 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x00000238121B2FE0>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:52:58,905 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 17:52:58,905 DEBUG client.py Запущены процессы
+2022-02-05 17:54:01,402 DEBUG client.py Была вызвана функция start c параметрами (<__main__.Client object at 0x00000238121B2FE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 17:56:29,488 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001FCE2A32FE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 17:56:29,488 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_100
+2022-02-05 17:56:29,488 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001FCE2A32FE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:56:29,488 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001FCE2A32FE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:56:29,998 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000001FCE2A32FE0>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:56:29,998 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 17:56:38,670 DEBUG client.py Запущены процессы
+2022-02-05 17:56:40,732 DEBUG client.py Была вызвана функция start c параметрами (<__main__.Client object at 0x000001FCE2A32FE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 17:56:56,485 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000002D4E7413010>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 17:56:56,485 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_100
+2022-02-05 17:56:56,485 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000002D4E7413010>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:56:56,485 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000002D4E7413010>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:56:56,987 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000002D4E7413010>, {'response': 400, 'error': 'Имя пользователя уже занято.'}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:56:56,987 INFO client.py Установлено соединение с сервером. Ответ сервера: 400 : Имя пользователя уже занято.
+2022-02-05 17:56:56,987 DEBUG client.py Запущены процессы
+2022-02-05 17:56:57,018 CRITICAL client.py Потеряно соединение с сервером.
+2022-02-05 17:56:57,034 DEBUG threading.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x000002D4E7413010>, <socket.socket fd=716, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 53685), raddr=('127.0.0.1', 7778)>, 'user_100'), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-05 17:56:57,999 DEBUG client.py Была вызвана функция start c параметрами (<__main__.Client object at 0x000002D4E7413010>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 17:59:08,916 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001CA53943010>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 17:59:08,916 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_100
+2022-02-05 17:59:08,919 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001CA53943010>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:59:08,919 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001CA53943010>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:59:09,430 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000001CA53943010>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 17:59:09,430 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 17:59:09,430 DEBUG client.py Запущены процессы
+2022-02-05 18:03:18,818 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001B36CC2C040>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 18:03:18,818 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_100
+2022-02-05 18:03:18,818 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001B36CC2C040>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 18:03:18,834 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001B36CC2C040>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 18:03:19,331 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000001B36CC2C040>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 18:03:19,331 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 18:03:19,331 DEBUG client.py Запущены процессы
+2022-02-05 18:04:23,225 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x00000280E594C040>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 18:04:23,225 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_100
+2022-02-05 18:04:23,225 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x00000280E594C040>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 18:04:23,225 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x00000280E594C040>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 18:04:23,732 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x00000280E594C040>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 18:04:23,732 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 18:04:23,732 DEBUG client.py Запущены процессы
+2022-02-05 18:05:08,604 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x0000019532ABC040>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 18:05:08,604 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_100
+2022-02-05 18:05:08,604 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x0000019532ABC040>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 18:05:08,604 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x0000019532ABC040>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 18:05:09,116 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x0000019532ABC040>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 18:05:09,116 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 18:05:09,116 DEBUG client.py Запущены процессы
+2022-02-05 18:05:59,258 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000002242178C040>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 18:05:59,258 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_100
+2022-02-05 18:05:59,258 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000002242178C040>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 18:05:59,258 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000002242178C040>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 18:05:59,770 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000002242178C040>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 18:05:59,770 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 18:05:59,770 DEBUG client.py Запущены процессы
+2022-02-05 18:12:45,483 DEBUG client.py Была вызвана функция __init__ c параметрами (<Client(Thread-6, initial)>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 18:12:45,483 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_100
+2022-02-05 18:12:45,498 DEBUG client.py Была вызвана функция get_transport c параметрами (<Client(Thread-6, started 19580)>,), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-05 18:12:45,498 DEBUG client.py Была вызвана функция create_presence c параметрами (<Client(Thread-6, started 19580)>,), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-05 18:12:45,993 DEBUG client.py Была вызвана функция process_answer c параметрами (<Client(Thread-6, started 19580)>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-05 18:12:45,993 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 18:12:45,993 DEBUG client.py Запущены процессы
+2022-02-05 18:13:20,579 CRITICAL client.py Потеряно соединение с сервером.
+2022-02-05 18:13:20,579 DEBUG threading.py Была вызвана функция message_from_server c параметрами (<Client(Thread-6, started 19580)>, <socket.socket fd=668, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55857), raddr=('127.0.0.1', 7778)>, 'user_100'), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-05 18:13:21,250 DEBUG threading.py Была вызвана функция run c параметрами (<Client(Thread-6, started 19580)>,), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции _bootstrap_inner
+2022-02-05 18:15:04,455 DEBUG client.py Была вызвана функция __init__ c параметрами (<Client(Thread-6, initial)>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 18:15:04,455 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_100
+2022-02-05 18:15:04,455 DEBUG client.py Была вызвана функция get_transport c параметрами (<Client(Thread-6, started 10244)>,), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-05 18:15:04,455 DEBUG client.py Была вызвана функция create_presence c параметрами (<Client(Thread-6, started 10244)>,), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-05 18:15:04,958 DEBUG client.py Была вызвана функция process_answer c параметрами (<Client(Thread-6, started 10244)>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-05 18:15:04,958 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 18:15:04,958 DEBUG client.py Запущены процессы
+2022-02-05 18:15:05,966 DEBUG threading.py Была вызвана функция run c параметрами (<Client(Thread-6, started 10244)>,), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции _bootstrap_inner
+2022-02-05 18:16:49,326 DEBUG client.py Была вызвана функция __init__ c параметрами (<Client(Thread-6, initial)>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 18:16:49,326 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_100
+2022-02-05 18:16:49,342 DEBUG client.py Была вызвана функция get_transport c параметрами (<Client(Thread-6, started 14984)>,), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-05 18:16:49,342 DEBUG client.py Была вызвана функция create_presence c параметрами (<Client(Thread-6, started 14984)>,), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-05 18:16:49,848 DEBUG client.py Была вызвана функция process_answer c параметрами (<Client(Thread-6, started 14984)>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-05 18:16:49,848 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 18:16:49,848 DEBUG client.py Запущены процессы
+2022-02-05 18:17:34,908 DEBUG client.py Была вызвана функция __init__ c параметрами (<Client(Thread-6, initial)>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 18:17:34,908 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_100
+2022-02-05 18:17:34,908 DEBUG client.py Была вызвана функция get_transport c параметрами (<Client(Thread-6, started 2804)>,), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-05 18:17:34,924 DEBUG client.py Была вызвана функция create_presence c параметрами (<Client(Thread-6, started 2804)>,), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-05 18:17:35,411 DEBUG client.py Была вызвана функция process_answer c параметрами (<Client(Thread-6, started 2804)>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-05 18:17:35,411 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 18:17:35,411 DEBUG client.py Запущены процессы
+2022-02-05 18:19:35,458 DEBUG client.py Была вызвана функция __init__ c параметрами (<Client(Thread-6, initial)>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 18:19:35,473 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_100
+2022-02-05 18:19:35,473 DEBUG client.py Была вызвана функция get_transport c параметрами (<Client(Thread-6, started 8008)>,), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-05 18:19:35,473 DEBUG client.py Была вызвана функция create_presence c параметрами (<Client(Thread-6, started 8008)>,), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-05 18:19:35,974 DEBUG client.py Была вызвана функция process_answer c параметрами (<Client(Thread-6, started 8008)>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-05 18:19:35,974 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 18:19:35,974 DEBUG client.py Запущены процессы
+2022-02-05 18:22:12,273 DEBUG client.py Была вызвана функция __init__ c параметрами (<Client(Thread-6, initial)>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 18:22:12,273 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_100
+2022-02-05 18:22:12,273 DEBUG client.py Была вызвана функция get_transport c параметрами (<Client(Thread-6, started 11316)>,), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-05 18:22:12,273 DEBUG client.py Была вызвана функция create_presence c параметрами (<Client(Thread-6, started 11316)>,), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-05 18:22:12,784 DEBUG client.py Была вызвана функция process_answer c параметрами (<Client(Thread-6, started 11316)>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-05 18:22:12,784 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 18:22:12,784 DEBUG client.py Запущены процессы
+2022-02-05 18:22:13,808 DEBUG threading.py Была вызвана функция run c параметрами (<Client(Thread-6, started 11316)>,), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции _bootstrap_inner
+2022-02-05 18:23:35,709 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x0000017615263010>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 18:23:56,695 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x0000020DFC4E3010>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 18:23:56,695 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_100
+2022-02-05 18:23:56,695 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x0000020DFC4E3010>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 18:23:56,711 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x0000020DFC4E3010>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 18:23:57,209 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x0000020DFC4E3010>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 18:23:57,209 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 18:23:57,209 DEBUG client.py Запущены процессы
+2022-02-05 18:24:33,011 DEBUG client.py Сформирован словарь сообщения: {'action': 'message', 'from': 'user_100', 'to': 'user_100', 'time': 1644074673.0112193, 'text': 'Teste!!!'}
+2022-02-05 18:24:33,011 INFO client.py Отправлено сообщение для пользователя user_100
+2022-02-05 18:24:33,011 DEBUG client.py Была вызвана функция create_message c параметрами (<__main__.Client object at 0x0000020DFC4E3010>, <socket.socket fd=692, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 57448), raddr=('127.0.0.1', 7778)>), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции user_interactive
+2022-02-05 18:24:33,430 INFO client.py Получено сообщение от пользователя user_100:
+Teste!!!
+2022-02-05 18:25:18,881 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001FB067C6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 18:25:18,897 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_0
+2022-02-05 18:25:18,897 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001FB067C6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 18:25:18,897 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001FB067C6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 18:25:18,912 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001AAF1816D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 18:25:18,912 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_1
+2022-02-05 18:25:18,912 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001AAF1816D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 18:25:18,912 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000001FB067C6D70>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 18:25:18,912 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 18:25:18,912 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001AAF1816D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 18:25:18,912 DEBUG client.py Запущены процессы
+2022-02-05 18:25:19,426 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000001AAF1816D70>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 18:25:19,426 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 18:25:19,426 DEBUG client.py Запущены процессы
+2022-02-05 18:25:46,634 DEBUG client.py Сформирован словарь сообщения: {'action': 'message', 'from': 'user_1', 'to': 'user_0', 'time': 1644074746.6342318, 'text': 'Privet!!!'}
+2022-02-05 18:25:46,634 INFO client.py Отправлено сообщение для пользователя user_0
+2022-02-05 18:25:46,634 DEBUG client.py Была вызвана функция create_message c параметрами (<__main__.Client object at 0x000001AAF1816D70>, <socket.socket fd=764, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 57658), raddr=('127.0.0.1', 7778)>), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции user_interactive
+2022-02-05 18:25:46,858 INFO client.py Получено сообщение от пользователя user_1:
+Privet!!!
+2022-02-05 18:26:12,940 DEBUG client.py Сформирован словарь сообщения: {'action': 'message', 'from': 'user_1', 'to': 'user_100', 'time': 1644074772.9400828, 'text': 'zfxdsad'}
+2022-02-05 18:26:12,940 INFO client.py Отправлено сообщение для пользователя user_100
+2022-02-05 18:26:12,940 DEBUG client.py Была вызвана функция create_message c параметрами (<__main__.Client object at 0x000001AAF1816D70>, <socket.socket fd=764, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 57658), raddr=('127.0.0.1', 7778)>), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции user_interactive
+2022-02-05 18:30:20,636 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000002221B376DA0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 18:30:20,636 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_0
+2022-02-05 18:30:20,668 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001F16E7B6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-05 18:30:20,668 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_1
+2022-02-05 18:30:20,668 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001F16E7B6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 18:30:20,683 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001F16E7B6D70>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 18:30:21,148 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000002221B376DA0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 18:30:21,148 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000002221B376DA0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 18:30:21,148 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000001F16E7B6D70>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 18:30:21,148 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 18:30:21,148 DEBUG client.py Запущены процессы
+2022-02-05 18:30:21,656 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000002221B376DA0>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-05 18:30:21,656 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-05 18:30:21,656 DEBUG client.py Запущены процессы
+2022-02-05 18:30:45,190 DEBUG client.py Сформирован словарь сообщения: {'action': 'message', 'from': 'user_0', 'to': 'user_1', 'time': 1644075045.1903698, 'text': 'Privet!!!'}
+2022-02-05 18:30:45,190 INFO client.py Отправлено сообщение для пользователя user_1
+2022-02-05 18:30:45,190 DEBUG client.py Была вызвана функция create_message c параметрами (<__main__.Client object at 0x000002221B376DA0>, <socket.socket fd=336, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58392), raddr=('127.0.0.1', 7778)>), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции user_interactive
+2022-02-05 18:30:45,541 INFO client.py Получено сообщение от пользователя user_0:
+Privet!!!
+2022-02-05 18:30:57,287 DEBUG client.py Сформирован словарь сообщения: {'action': 'message', 'from': 'user_0', 'to': 'user_100', 'time': 1644075057.2879283, 'text': 'wqerwerwerw'}
+2022-02-05 18:30:57,287 INFO client.py Отправлено сообщение для пользователя user_100
+2022-02-05 18:30:57,287 DEBUG client.py Была вызвана функция create_message c параметрами (<__main__.Client object at 0x000002221B376DA0>, <socket.socket fd=336, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58392), raddr=('127.0.0.1', 7778)>), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции user_interactive
+2022-02-05 18:31:25,983 DEBUG client.py Сформирован словарь сообщения: {'action': 'message', 'from': 'user_1', 'to': 'user_0', 'time': 1644075085.983146, 'text': 'Poka!'}
+2022-02-05 18:31:25,983 INFO client.py Отправлено сообщение для пользователя user_0
+2022-02-05 18:31:25,998 DEBUG client.py Была вызвана функция create_message c параметрами (<__main__.Client object at 0x000001F16E7B6D70>, <socket.socket fd=748, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58393), raddr=('127.0.0.1', 7778)>), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции user_interactive
+2022-02-05 18:31:26,187 INFO client.py Получено сообщение от пользователя user_1:
+Poka!
+2022-02-19 14:36:20,169 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000002729AFC0EE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 14:36:20,169 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_100
+2022-02-19 14:36:20,185 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000002729AFC0EE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 14:36:20,185 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000002729AFC0EE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 14:36:20,693 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000002729AFC0EE0>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 14:36:20,693 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-19 14:36:20,693 DEBUG client.py Запущены процессы
+2022-02-19 15:58:57,575 CRITICAL client.py Потеряно соединение с сервером.
+2022-02-19 15:58:57,604 DEBUG threading.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x000002729AFC0EE0>, <socket.socket fd=368, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58924), raddr=('127.0.0.1', 7778)>, 'user_100'), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-19 15:58:58,557 DEBUG client.py Была вызвана функция start c параметрами (<__main__.Client object at 0x000002729AFC0EE0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:11:09,792 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001EE8C780EB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:11:09,792 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_100
+2022-02-19 16:12:33,439 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001EC45D90EB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:12:33,439 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_100
+2022-02-19 16:12:33,439 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001EC45D90EB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:12:33,439 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001EC45D90EB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:12:33,951 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000001EC45D90EB0>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:12:33,951 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-19 16:12:33,951 DEBUG client.py Запущены процессы
+2022-02-19 16:26:14,102 DEBUG client.py Была вызвана функция create_exit_message c параметрами (<__main__.Client object at 0x000001EC45D90EB0>,), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции user_interactive
+2022-02-19 16:26:14,102 INFO client.py Завершение работы по команде пользователя.
+2022-02-19 16:26:14,195 CRITICAL client.py Потеряно соединение с сервером.
+2022-02-19 16:26:14,195 DEBUG threading.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x000001EC45D90EB0>, <socket.socket fd=700, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 54771), raddr=('127.0.0.1', 7778)>, 'user_100'), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-19 16:26:14,485 DEBUG client.py Была вызвана функция start c параметрами (<__main__.Client object at 0x000001EC45D90EB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:26:49,668 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000002573AD50EB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:26:49,668 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_100
+2022-02-19 16:26:49,668 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000002573AD50EB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:26:49,668 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000002573AD50EB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:26:50,178 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000002573AD50EB0>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:26:50,178 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-19 16:26:50,178 DEBUG client.py Запущены процессы
+2022-02-19 16:27:22,000 DEBUG client.py Была вызвана функция create_exit_message c параметрами (<__main__.Client object at 0x000002573AD50EB0>,), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции user_interactive
+2022-02-19 16:27:22,000 INFO client.py Завершение работы по команде пользователя.
+2022-02-19 16:27:22,172 CRITICAL client.py Потеряно соединение с сервером.
+2022-02-19 16:27:22,172 DEBUG threading.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x000002573AD50EB0>, <socket.socket fd=684, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 56748), raddr=('127.0.0.1', 7778)>, 'user_100'), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-19 16:27:22,443 DEBUG client.py Была вызвана функция start c параметрами (<__main__.Client object at 0x000002573AD50EB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:27:42,105 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000002429A1E0EB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:27:42,105 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_100
+2022-02-19 16:27:42,105 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000002429A1E0EB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:27:42,105 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000002429A1E0EB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:27:42,613 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000002429A1E0EB0>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:27:42,613 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-19 16:27:42,613 DEBUG client.py Запущены процессы
+2022-02-19 16:28:46,094 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001CBA185D420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:28:46,094 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_0
+2022-02-19 16:28:46,110 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001CBA185D420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:28:46,110 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001CBA185D420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:28:46,110 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x00000172F605D420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:28:46,110 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_1
+2022-02-19 16:28:46,110 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x00000172F605D420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:28:46,110 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x00000172F605D420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:28:46,126 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000001CBA185D420>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:28:46,126 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-19 16:28:46,126 DEBUG client.py Запущены процессы
+2022-02-19 16:28:46,634 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x00000172F605D420>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:28:46,634 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-19 16:28:46,634 DEBUG client.py Запущены процессы
+2022-02-19 16:30:24,381 DEBUG client.py Сформирован словарь сообщения: {'action': 'message', 'from': 'user_1', 'to': 'user_0', 'time': 1645277424.381919, 'text': 'test'}
+2022-02-19 16:30:24,381 INFO client.py Отправлено сообщение для пользователя user_0
+2022-02-19 16:30:24,381 DEBUG client.py Была вызвана функция create_message c параметрами (<__main__.Client object at 0x00000172F605D420>, <socket.socket fd=708, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52033), raddr=('127.0.0.1', 7778)>), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции user_interactive
+2022-02-19 16:30:24,807 INFO client.py Получено сообщение от пользователя user_1:
+test
+2022-02-19 16:32:46,725 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001725449D420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:32:46,725 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_0
+2022-02-19 16:32:46,725 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001725449D420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:32:46,725 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001725449D420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:32:46,742 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x00000278721ED420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:32:46,742 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_1
+2022-02-19 16:32:46,742 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x00000278721ED420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:32:46,742 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x00000278721ED420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:32:46,742 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000001725449D420>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:32:46,742 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-19 16:32:46,758 DEBUG client.py Запущены процессы
+2022-02-19 16:32:47,251 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x00000278721ED420>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:32:47,251 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-19 16:32:47,251 DEBUG client.py Запущены процессы
+2022-02-19 16:33:04,123 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000002BE2642D420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:33:04,123 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_0
+2022-02-19 16:33:04,123 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000002BE2642D420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:33:04,123 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000002BE2642D420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:33:04,139 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000002C31078D420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:33:04,139 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7778, имя пользователя: user_1
+2022-02-19 16:33:04,139 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000002C31078D420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:33:04,139 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000002BE2642D420>, {'response': 400, 'error': 'Имя пользователя уже занято.'}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:33:04,139 INFO client.py Установлено соединение с сервером. Ответ сервера: 400 : Имя пользователя уже занято.
+2022-02-19 16:33:04,139 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000002C31078D420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:33:04,139 DEBUG client.py Запущены процессы
+2022-02-19 16:33:04,185 CRITICAL client.py Потеряно соединение с сервером.
+2022-02-19 16:33:04,185 DEBUG threading.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x000002BE2642D420>, <socket.socket fd=736, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52674), raddr=('127.0.0.1', 7778)>, 'user_0'), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-19 16:33:04,648 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000002C31078D420>, {'response': 400, 'error': 'Имя пользователя уже занято.'}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:33:04,648 INFO client.py Установлено соединение с сервером. Ответ сервера: 400 : Имя пользователя уже занято.
+2022-02-19 16:33:04,648 DEBUG client.py Запущены процессы
+2022-02-19 16:33:04,695 CRITICAL client.py Потеряно соединение с сервером.
+2022-02-19 16:33:04,697 DEBUG threading.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x000002C31078D420>, <socket.socket fd=828, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52675), raddr=('127.0.0.1', 7778)>, 'user_1'), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-19 16:33:05,145 DEBUG client.py Была вызвана функция start c параметрами (<__main__.Client object at 0x000002BE2642D420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:33:05,656 DEBUG client.py Была вызвана функция start c параметрами (<__main__.Client object at 0x000002C31078D420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:33:32,062 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x00000199322AD420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:33:32,062 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, имя пользователя: user_0
+2022-02-19 16:33:32,062 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x00000199322AD420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:33:32,062 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x00000199322AD420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:33:32,079 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001F5C21BD420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:33:32,079 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, имя пользователя: user_1
+2022-02-19 16:33:32,079 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001F5C21BD420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:33:32,079 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001F5C21BD420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:33:32,079 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x00000199322AD420>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:33:32,079 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-19 16:33:32,079 DEBUG client.py Запущены процессы
+2022-02-19 16:33:32,586 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000001F5C21BD420>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:33:32,586 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-19 16:33:32,586 DEBUG client.py Запущены процессы
+2022-02-19 16:36:33,063 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000002793A35D420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:36:33,063 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, имя пользователя: user_0
+2022-02-19 16:36:33,079 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001BF8789D420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:36:33,079 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, имя пользователя: user_1
+2022-02-19 16:38:15,995 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x0000029025F6D420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:38:15,995 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, имя пользователя: user_0
+2022-02-19 16:38:16,011 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001EF4FAAD420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:38:16,011 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, имя пользователя: user_1
+2022-02-19 16:38:16,500 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x0000029025F6D420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:38:16,500 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x0000029025F6D420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:38:16,531 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001EF4FAAD420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:38:16,531 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001EF4FAAD420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:38:16,531 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x0000029025F6D420>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:38:16,531 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-19 16:38:16,531 DEBUG client.py Запущены процессы
+2022-02-19 16:38:17,038 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000001EF4FAAD420>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:38:17,038 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-19 16:38:17,038 DEBUG client.py Запущены процессы
+2022-02-19 16:38:40,127 DEBUG client.py Сформирован словарь сообщения: {'action': 'message', 'from': 'user_1', 'to': 'user_0', 'time': 1645277920.127738, 'text': '111111@!'}
+2022-02-19 16:38:40,127 INFO client.py Отправлено сообщение для пользователя user_0
+2022-02-19 16:38:40,143 DEBUG client.py Была вызвана функция create_message c параметрами (<__main__.Client object at 0x000001EF4FAAD420>, <socket.socket fd=716, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 53463), raddr=('127.0.0.1', 7777)>), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции user_interactive
+2022-02-19 16:38:40,418 INFO client.py Получено сообщение от пользователя user_1:
+111111@!
+2022-02-19 16:39:02,174 CRITICAL client.py Потеряно соединение с сервером.
+2022-02-19 16:39:02,174 DEBUG threading.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x0000029025F6D420>, <socket.socket fd=684, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 53462), raddr=('127.0.0.1', 7777)>, 'user_0'), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-19 16:39:02,889 DEBUG client.py Была вызвана функция start c параметрами (<__main__.Client object at 0x0000029025F6D420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:47:11,461 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x00000250312CD420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:47:11,461 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, имя пользователя: user_0
+2022-02-19 16:47:11,477 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x00000243A529D420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:47:11,477 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, имя пользователя: user_1
+2022-02-19 16:47:11,977 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x00000250312CD420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:47:11,977 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x00000250312CD420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:47:11,993 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x00000243A529D420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:47:11,993 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x00000243A529D420>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:47:11,993 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x00000250312CD420>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:47:11,993 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-19 16:47:11,993 DEBUG client.py Запущены процессы
+2022-02-19 16:47:12,502 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x00000243A529D420>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:47:12,502 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-19 16:47:12,502 DEBUG client.py Запущены процессы
+2022-02-19 16:48:34,313 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x0000023745E8D450>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:48:34,313 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, имя пользователя: user_1
+2022-02-19 16:48:34,313 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001D58F0BD450>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:48:34,313 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, имя пользователя: user_0
+2022-02-19 16:48:34,313 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x0000023745E8D450>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:48:34,329 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001D58F0BD450>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:48:34,329 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x0000023745E8D450>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:48:34,329 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001D58F0BD450>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:48:34,828 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x0000023745E8D450>, {'response': 400, 'error': 'Имя пользователя уже занято.'}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:48:34,828 INFO client.py Установлено соединение с сервером. Ответ сервера: 400 : Имя пользователя уже занято.
+2022-02-19 16:48:34,828 DEBUG client.py Запущены процессы
+2022-02-19 16:48:34,828 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000001D58F0BD450>, {'response': 400, 'error': 'Имя пользователя уже занято.'}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:48:34,828 INFO client.py Установлено соединение с сервером. Ответ сервера: 400 : Имя пользователя уже занято.
+2022-02-19 16:48:34,828 DEBUG client.py Запущены процессы
+2022-02-19 16:48:34,879 CRITICAL client.py Потеряно соединение с сервером.
+2022-02-19 16:48:34,880 CRITICAL client.py Потеряно соединение с сервером.
+2022-02-19 16:48:34,880 DEBUG threading.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x0000023745E8D450>, <socket.socket fd=760, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 54998), raddr=('127.0.0.1', 7777)>, 'user_1'), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-19 16:48:34,880 DEBUG threading.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x000001D58F0BD450>, <socket.socket fd=832, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 54999), raddr=('127.0.0.1', 7777)>, 'user_0'), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-19 16:48:35,829 DEBUG client.py Была вызвана функция start c параметрами (<__main__.Client object at 0x000001D58F0BD450>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:49:01,539 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x0000021C413DD450>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:49:01,539 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, имя пользователя: user_0
+2022-02-19 16:49:01,554 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x0000021C413DD450>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:49:01,554 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x0000021C413DD450>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:49:01,554 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001F013A5D450>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:49:01,554 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, имя пользователя: user_1
+2022-02-19 16:49:01,570 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001F013A5D450>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:49:01,570 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001F013A5D450>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:49:01,570 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x0000021C413DD450>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:49:01,570 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-19 16:49:01,570 DEBUG client.py Запущены процессы
+2022-02-19 16:49:02,078 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000001F013A5D450>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:49:02,078 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-19 16:49:02,078 DEBUG client.py Запущены процессы
+2022-02-19 16:49:43,227 DEBUG client.py Сформирован словарь сообщения: {'action': 'message', 'from': 'user_1', 'to': 'user_0', 'time': 1645278583.2273123, 'text': 'privet, chuvak!'}
+2022-02-19 16:49:43,227 INFO client.py Отправлено сообщение для пользователя user_0
+2022-02-19 16:49:43,227 DEBUG client.py Была вызвана функция create_message c параметрами (<__main__.Client object at 0x000001F013A5D450>, <socket.socket fd=700, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55084), raddr=('127.0.0.1', 7777)>), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции user_interactive
+2022-02-19 16:49:43,242 INFO client.py Получено сообщение от пользователя user_1:
+privet, chuvak!
+2022-02-19 16:49:50,496 DEBUG client.py Была вызвана функция create_exit_message c параметрами (<__main__.Client object at 0x000001F013A5D450>,), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции user_interactive
+2022-02-19 16:49:50,496 INFO client.py Завершение работы по команде пользователя.
+2022-02-19 16:49:50,874 CRITICAL client.py Потеряно соединение с сервером.
+2022-02-19 16:49:50,876 DEBUG threading.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x000001F013A5D450>, <socket.socket fd=700, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55084), raddr=('127.0.0.1', 7777)>, 'user_1'), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-19 16:49:51,015 DEBUG threading.py Была вызвана функция user_interactive c параметрами (<__main__.Client object at 0x000001F013A5D450>, <socket.socket fd=700, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55084), raddr=('127.0.0.1', 7777)>), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-19 16:49:51,465 DEBUG client.py Была вызвана функция start c параметрами (<__main__.Client object at 0x000001F013A5D450>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:49:56,856 DEBUG client.py Была вызвана функция create_exit_message c параметрами (<__main__.Client object at 0x0000021C413DD450>,), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции user_interactive
+2022-02-19 16:49:56,856 INFO client.py Завершение работы по команде пользователя.
+2022-02-19 16:49:57,013 CRITICAL client.py Потеряно соединение с сервером.
+2022-02-19 16:49:57,013 DEBUG threading.py Была вызвана функция message_from_server c параметрами (<__main__.Client object at 0x0000021C413DD450>, <socket.socket fd=572, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55083), raddr=('127.0.0.1', 7777)>, 'user_0'), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-19 16:49:57,376 DEBUG threading.py Была вызвана функция user_interactive c параметрами (<__main__.Client object at 0x0000021C413DD450>, <socket.socket fd=572, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55083), raddr=('127.0.0.1', 7777)>), {}. Вызов из модуля __main__. Вызов из функции **self.kwargs).Вызов из функции run
+2022-02-19 16:49:58,019 DEBUG client.py Была вызвана функция start c параметрами (<__main__.Client object at 0x0000021C413DD450>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:52:34,275 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001CC3931D450>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:52:34,276 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, имя пользователя: user_0
+2022-02-19 16:52:34,277 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001CC3931D450>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:52:34,277 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001CC3931D450>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:52:34,324 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x000001610E3DD450>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 16:52:34,324 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, имя пользователя: user_1
+2022-02-19 16:52:34,324 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x000001610E3DD450>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:52:34,340 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000001CC3931D450>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:52:34,340 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-19 16:52:34,340 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x000001610E3DD450>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:52:34,340 DEBUG client.py Запущены процессы
+2022-02-19 16:52:34,852 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x000001610E3DD450>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 16:52:34,852 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-19 16:52:34,852 DEBUG client.py Запущены процессы
+2022-02-19 19:53:59,569 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x00000213CD63D450>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 19:53:59,584 DEBUG client.py Была вызвана функция __init__ c параметрами (<__main__.Client object at 0x00000276B029D450>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-02-19 19:53:59,584 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, имя пользователя: user_0
+2022-02-19 19:53:59,584 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, имя пользователя: user_1
+2022-02-19 19:53:59,584 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x00000213CD63D450>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 19:53:59,584 DEBUG client.py Была вызвана функция get_transport c параметрами (<__main__.Client object at 0x00000276B029D450>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 19:53:59,584 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x00000213CD63D450>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 19:53:59,584 DEBUG client.py Была вызвана функция create_presence c параметрами (<__main__.Client object at 0x00000276B029D450>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 19:54:00,095 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x00000213CD63D450>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 19:54:00,095 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-19 19:54:00,095 DEBUG client.py Была вызвана функция process_answer c параметрами (<__main__.Client object at 0x00000276B029D450>, {'response': 200}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-02-19 19:54:00,095 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-02-19 19:54:00,095 DEBUG client.py Запущены процессы
+2022-02-19 19:54:00,095 DEBUG client.py Запущены процессы

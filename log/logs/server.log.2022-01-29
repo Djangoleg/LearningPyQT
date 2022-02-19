@@ -1,0 +1,14 @@
+2022-01-29 14:24:56,831 CRITICAL config_server_log.py Критическая ошибка
+2022-01-29 14:24:56,831 ERROR config_server_log.py Ошибка
+2022-01-29 14:24:56,832 DEBUG config_server_log.py Отладочная информация
+2022-01-29 14:24:56,832 INFO config_server_log.py Информационное сообщение
+2022-01-29 14:30:19,785 INFO server.py Start local server on port: 7777
+2022-01-29 14:30:29,154 INFO server.py {'action': 'presence', 'time': 1643455829.1527305, 'user': {'account_name': 'Super man'}}
+2022-01-29 19:58:37,231 INFO server.py Start local server on port: 7777
+2022-01-29 19:58:58,104 INFO server.py {'action': 'presence', 'time': 1643475538.1013184, 'user': {'account_name': 'Super man'}}
+2022-01-29 20:00:30,733 DEBUG server.py Была вызвана функция __get_settings c параметрами (<__main__.Server object at 0x000001F0D4305DB0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-01-29 20:00:30,734 INFO server.py Start local server on port: 7777
+2022-01-29 20:00:57,257 INFO server.py {'action': 'presence', 'time': 1643475657.254044, 'user': {'account_name': 'Super man'}}
+2022-01-29 20:00:57,259 DEBUG server.py Была вызвана функция process_client_message c параметрами (<__main__.Server object at 0x000001F0D4305DB0>, {'action': 'presence', 'time': 1643475657.254044, 'user': {'account_name': 'Super man'}}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-01-29 20:01:23,756 INFO server.py {'action': 'presence', 'time': 1643475683.7530346, 'user': {'account_name': 'Super man'}}
+2022-01-29 20:01:23,758 DEBUG server.py Была вызвана функция process_client_message c параметрами (<__main__.Server object at 0x000001F0D4305DB0>, {'action': 'presence', 'time': 1643475683.7530346, 'user': {'account_name': 'Super man'}}), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
