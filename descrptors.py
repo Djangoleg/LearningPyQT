@@ -1,6 +1,8 @@
 import ipaddress
 import logging
+
 logger = logging.getLogger('server')
+
 
 # Дескриптор для описания порта:
 class Port:
@@ -19,6 +21,7 @@ class Port:
         # name - port
         self.name = name
 
+
 class Host:
     def __set__(self, instance, value):
         if value:
@@ -31,4 +34,3 @@ class Host:
 
     def __set_name__(self, owner, name):
         self.name = name
-
