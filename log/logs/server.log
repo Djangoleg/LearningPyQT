@@ -1,0 +1,140 @@
+2022-03-08 19:18:33,146 DEBUG server.py Была вызвана функция _make_config c параметрами (<__main__.Server object at 0x0000025DB5CE5690>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции __init__
+2022-03-08 19:18:33,201 INFO core.py Запущен сервер, порт для подключений: 7778 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-03-08 19:19:08,116 DEBUG server.py Была вызвана функция start c параметрами (<__main__.Server object at 0x0000025DB5CE5690>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-03-08 19:21:50,903 DEBUG server.py Была вызвана функция _make_config c параметрами (<__main__.Server object at 0x00000259B26999C0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции __init__
+2022-03-08 19:21:50,960 INFO core.py Запущен сервер, порт для подключений: 7778 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-03-08 19:21:59,093 DEBUG server.py Была вызвана функция start c параметрами (<__main__.Server object at 0x00000259B26999C0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-03-08 19:22:04,991 DEBUG server.py Была вызвана функция _make_config c параметрами (<__main__.Server object at 0x00000286317D99C0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции __init__
+2022-03-08 19:22:05,049 INFO core.py Запущен сервер, порт для подключений: 7778 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-03-08 19:22:12,703 INFO core.py Установлено соедение с ПК ('127.0.0.1', 50585)
+2022-03-08 19:22:15,761 DEBUG core.py Getting data from client exception.
+Traceback (most recent call last):
+  File "C:\Users\krole\Documents\GeekBrains\LearningPyQt\Lesson_6\Code\server\core.py", line 87, in run
+    get_message(client_with_message), client_with_message)
+  File "C:\Users\krole\Documents\GeekBrains\LearningPyQt\Lesson_6\Code\common\utils.py", line 17, in get_message
+    response = json.loads(json_response)
+  File "C:\Users\krole\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\krole\AppData\Local\Programs\Python\Python310\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\krole\AppData\Local\Programs\Python\Python310\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2022-03-08 19:22:15,764 INFO core.py Клиент ('127.0.0.1', 50585) отключился от сервера.
+2022-03-08 19:23:18,529 INFO core.py Установлено соедение с ПК ('127.0.0.1', 49504)
+2022-03-08 19:24:28,527 DEBUG core.py Getting data from client exception.
+Traceback (most recent call last):
+  File "C:\Users\krole\Documents\GeekBrains\LearningPyQt\Lesson_6\Code\server\core.py", line 87, in run
+    get_message(client_with_message), client_with_message)
+  File "C:\Users\krole\Documents\GeekBrains\LearningPyQt\Lesson_6\Code\common\utils.py", line 17, in get_message
+    response = json.loads(json_response)
+  File "C:\Users\krole\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\krole\AppData\Local\Programs\Python\Python310\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\krole\AppData\Local\Programs\Python\Python310\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2022-03-08 19:24:28,528 INFO core.py Клиент ('127.0.0.1', 49504) отключился от сервера.
+2022-03-08 19:24:46,439 INFO core.py Установлено соедение с ПК ('127.0.0.1', 49727)
+2022-03-08 19:24:59,595 DEBUG core.py Getting data from client exception.
+Traceback (most recent call last):
+  File "C:\Users\krole\Documents\GeekBrains\LearningPyQt\Lesson_6\Code\server\core.py", line 87, in run
+    get_message(client_with_message), client_with_message)
+  File "C:\Users\krole\Documents\GeekBrains\LearningPyQt\Lesson_6\Code\common\utils.py", line 17, in get_message
+    response = json.loads(json_response)
+  File "C:\Users\krole\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\krole\AppData\Local\Programs\Python\Python310\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\krole\AppData\Local\Programs\Python\Python310\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2022-03-08 19:24:59,596 INFO core.py Клиент ('127.0.0.1', 49727) отключился от сервера.
+2022-03-08 19:28:43,705 INFO core.py Установлено соедение с ПК ('127.0.0.1', 58835)
+2022-03-08 19:28:44,216 DEBUG core.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1646756923.728437, 'user': {'account_name': 'X-MAN', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkEbOAhu9RLSR67mB8x8+\nT0bMC7IcvglWa+Qgp6kBXaschFSoLrQjNwJX3j1LHidlSbNuM6ouh9W1DXvTYnDB\nByfQWih4sf0/wqb4ekgvCrkxYhKO+PRfua7+6prypWkJsLdXZTgmSkfUMf2dEySf\nIGtGra34sNjOfZilzyR7yElc5YMrIjsxkwbj3MTE/SPlK82r4GI1JcJctTHyTEYx\nNEwoh+HevQBCR3jLFhJ1KpQIHXZVBa2TubrE64xl67g6ccFLPlWS/Sot4JFXQnr/\ntmLY3vVkA3XPFGsYof4ekp29vovC67Iyf9LXuYTO1Vl7drliem8peONQ67l56tz2\n5QIDAQAB\n-----END PUBLIC KEY-----'}}
+2022-03-08 19:28:44,217 DEBUG core.py Start auth process for {'account_name': 'X-MAN', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkEbOAhu9RLSR67mB8x8+\nT0bMC7IcvglWa+Qgp6kBXaschFSoLrQjNwJX3j1LHidlSbNuM6ouh9W1DXvTYnDB\nByfQWih4sf0/wqb4ekgvCrkxYhKO+PRfua7+6prypWkJsLdXZTgmSkfUMf2dEySf\nIGtGra34sNjOfZilzyR7yElc5YMrIjsxkwbj3MTE/SPlK82r4GI1JcJctTHyTEYx\nNEwoh+HevQBCR3jLFhJ1KpQIHXZVBa2TubrE64xl67g6ccFLPlWS/Sot4JFXQnr/\ntmLY3vVkA3XPFGsYof4ekp29vovC67Iyf9LXuYTO1Vl7drliem8peONQ67l56tz2\n5QIDAQAB\n-----END PUBLIC KEY-----'}
+2022-03-08 19:38:39,278 DEBUG server.py Была вызвана функция start c параметрами (<__main__.Server object at 0x00000286317D99C0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-03-08 19:39:10,034 DEBUG server.py Была вызвана функция _make_config c параметрами (<__main__.Server object at 0x0000024CD11299C0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции __init__
+2022-03-08 19:39:10,131 INFO core.py Запущен сервер, порт для подключений: 7778 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-03-08 19:41:38,630 DEBUG server.py Была вызвана функция _make_config c параметрами (<__main__.Server object at 0x000001A7142C99C0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции __init__
+2022-03-08 19:41:38,685 INFO core.py Запущен сервер, порт для подключений: 7778 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-03-08 19:42:07,874 INFO core.py Установлено соедение с ПК ('127.0.0.1', 62806)
+2022-03-08 19:43:44,045 DEBUG core.py Getting data from client exception.
+Traceback (most recent call last):
+  File "C:\Users\krole\Documents\GeekBrains\LearningPyQt\Lesson_6\Code\server\core.py", line 87, in run
+    get_message(client_with_message), client_with_message)
+  File "C:\Users\krole\Documents\GeekBrains\LearningPyQt\Lesson_6\Code\common\utils.py", line 17, in get_message
+    response = json.loads(json_response)
+  File "C:\Users\krole\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\krole\AppData\Local\Programs\Python\Python310\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\krole\AppData\Local\Programs\Python\Python310\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2022-03-08 19:43:44,047 INFO core.py Клиент ('127.0.0.1', 62806) отключился от сервера.
+2022-03-08 19:43:52,231 INFO core.py Установлено соедение с ПК ('127.0.0.1', 57084)
+2022-03-08 19:43:52,745 DEBUG core.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1646757832.2392652, 'user': {'account_name': 'user_100', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxq08zu+D74nwZG+d9Rt8\nh9FbbEY0vHGxn1jEc8+UVcQL46jCm1Ys/naZQmB4s2+nYoDgYvuLJnc4E88kfASF\nBOynyTV3HaAojjwdL21pTP9bSRIlb13tHHRPJ+OKEvT+9SsyEAzHJ8W447vQCHi1\n0CuABP86NYFUYTKFua6N2cM2BnFE8c2C1yfl7ws1mVunDrrlvDaVzJSWc1ox8yw/\n9bGKLwyLdSxsUhJ9BknWo0tKkvxpCR/ZEkHcyG257eaIWUmSH3Iw9n46CHJ2CsJ1\nTc/YFFj9f9ddKeYaEc91sKQcyofNQ0n6GSVth88P9+1wuQOe8bIhhL4sGAIpXxg8\n1QIDAQAB\n-----END PUBLIC KEY-----'}}
+2022-03-08 19:43:52,747 DEBUG core.py Start auth process for {'account_name': 'user_100', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxq08zu+D74nwZG+d9Rt8\nh9FbbEY0vHGxn1jEc8+UVcQL46jCm1Ys/naZQmB4s2+nYoDgYvuLJnc4E88kfASF\nBOynyTV3HaAojjwdL21pTP9bSRIlb13tHHRPJ+OKEvT+9SsyEAzHJ8W447vQCHi1\n0CuABP86NYFUYTKFua6N2cM2BnFE8c2C1yfl7ws1mVunDrrlvDaVzJSWc1ox8yw/\n9bGKLwyLdSxsUhJ9BknWo0tKkvxpCR/ZEkHcyG257eaIWUmSH3Iw9n46CHJ2CsJ1\nTc/YFFj9f9ddKeYaEc91sKQcyofNQ0n6GSVth88P9+1wuQOe8bIhhL4sGAIpXxg8\n1QIDAQAB\n-----END PUBLIC KEY-----'}
+2022-03-08 19:43:52,754 DEBUG core.py Correct username, starting passwd check.
+2022-03-08 19:43:52,756 DEBUG core.py Auth message = {'response': 511, 'bin': 'ea1f2c36369bef7f9ced043142702350e1eca563122816911e96d08fd1243cb40cb926749cbac79c2d3d670fd2495686e3c0bd2d74af7e5a7dc54563f38262dd'}
+2022-03-08 19:43:53,285 DEBUG core.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1646757832.7588844, 'account_name': 'user_100'}
+2022-03-08 19:43:53,805 DEBUG core.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1646757833.3250108, 'user': 'user_100'}
+2022-03-08 19:44:32,709 DEBUG core.py Разбор сообщения от клиента : {'action': 'exit', 'time': 1646757872.5278249, 'account_name': 'user_100'}
+2022-03-08 19:44:32,709 INFO core.py Клиент ('127.0.0.1', 57084) отключился от сервера.
+2022-03-08 19:44:33,501 DEBUG server.py Была вызвана функция start c параметрами (<__main__.Server object at 0x000001A7142C99C0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-03-08 20:11:59,834 DEBUG server.py Была вызвана функция _make_config c параметрами (<__main__.Server object at 0x000001B4C8549C90>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции __init__
+2022-03-08 20:11:59,893 INFO core.py Запущен сервер, порт для подключений: 7778 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-03-08 20:12:05,550 INFO core.py Установлено соедение с ПК ('127.0.0.1', 61665)
+2022-03-08 20:12:06,061 DEBUG core.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1646759525.583355, 'user': {'account_name': 'user_100', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxq08zu+D74nwZG+d9Rt8\nh9FbbEY0vHGxn1jEc8+UVcQL46jCm1Ys/naZQmB4s2+nYoDgYvuLJnc4E88kfASF\nBOynyTV3HaAojjwdL21pTP9bSRIlb13tHHRPJ+OKEvT+9SsyEAzHJ8W447vQCHi1\n0CuABP86NYFUYTKFua6N2cM2BnFE8c2C1yfl7ws1mVunDrrlvDaVzJSWc1ox8yw/\n9bGKLwyLdSxsUhJ9BknWo0tKkvxpCR/ZEkHcyG257eaIWUmSH3Iw9n46CHJ2CsJ1\nTc/YFFj9f9ddKeYaEc91sKQcyofNQ0n6GSVth88P9+1wuQOe8bIhhL4sGAIpXxg8\n1QIDAQAB\n-----END PUBLIC KEY-----'}}
+2022-03-08 20:12:06,061 DEBUG core.py Start auth process for {'account_name': 'user_100', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxq08zu+D74nwZG+d9Rt8\nh9FbbEY0vHGxn1jEc8+UVcQL46jCm1Ys/naZQmB4s2+nYoDgYvuLJnc4E88kfASF\nBOynyTV3HaAojjwdL21pTP9bSRIlb13tHHRPJ+OKEvT+9SsyEAzHJ8W447vQCHi1\n0CuABP86NYFUYTKFua6N2cM2BnFE8c2C1yfl7ws1mVunDrrlvDaVzJSWc1ox8yw/\n9bGKLwyLdSxsUhJ9BknWo0tKkvxpCR/ZEkHcyG257eaIWUmSH3Iw9n46CHJ2CsJ1\nTc/YFFj9f9ddKeYaEc91sKQcyofNQ0n6GSVth88P9+1wuQOe8bIhhL4sGAIpXxg8\n1QIDAQAB\n-----END PUBLIC KEY-----'}
+2022-03-08 20:12:06,067 DEBUG core.py Correct username, starting passwd check.
+2022-03-08 20:12:06,070 DEBUG core.py Auth message = {'response': 511, 'bin': '45f1bb855e1edef1520e073bf28134028909aabf40203c3039ebb01348cd455f87c723fb936667437fa0c240c07ade30cd4cfe8f54869521efe175916993c316'}
+2022-03-08 20:12:06,593 DEBUG core.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1646759526.0726817, 'account_name': 'user_100'}
+2022-03-08 20:12:07,113 DEBUG core.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1646759526.6345775, 'user': 'user_100'}
+2022-03-08 20:12:15,770 DEBUG core.py Разбор сообщения от клиента : {'action': 'exit', 'time': 1646759535.487073, 'account_name': 'user_100'}
+2022-03-08 20:12:15,770 INFO core.py Клиент ('127.0.0.1', 61665) отключился от сервера.
+2022-03-08 20:12:17,277 DEBUG server.py Была вызвана функция start c параметрами (<__main__.Server object at 0x000001B4C8549C90>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-03-08 20:14:43,842 DEBUG server.py Была вызвана функция _make_config c параметрами (<__main__.Server object at 0x0000017D3CFC9C90>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции __init__
+2022-03-08 20:14:43,901 INFO core.py Запущен сервер, порт для подключений: 7778 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-03-08 20:24:06,183 INFO core.py Установлено соедение с ПК ('127.0.0.1', 59740)
+2022-03-08 20:24:06,694 DEBUG core.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1646760246.2173266, 'user': {'account_name': 'user_100', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxq08zu+D74nwZG+d9Rt8\nh9FbbEY0vHGxn1jEc8+UVcQL46jCm1Ys/naZQmB4s2+nYoDgYvuLJnc4E88kfASF\nBOynyTV3HaAojjwdL21pTP9bSRIlb13tHHRPJ+OKEvT+9SsyEAzHJ8W447vQCHi1\n0CuABP86NYFUYTKFua6N2cM2BnFE8c2C1yfl7ws1mVunDrrlvDaVzJSWc1ox8yw/\n9bGKLwyLdSxsUhJ9BknWo0tKkvxpCR/ZEkHcyG257eaIWUmSH3Iw9n46CHJ2CsJ1\nTc/YFFj9f9ddKeYaEc91sKQcyofNQ0n6GSVth88P9+1wuQOe8bIhhL4sGAIpXxg8\n1QIDAQAB\n-----END PUBLIC KEY-----'}}
+2022-03-08 20:24:06,695 DEBUG core.py Start auth process for {'account_name': 'user_100', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxq08zu+D74nwZG+d9Rt8\nh9FbbEY0vHGxn1jEc8+UVcQL46jCm1Ys/naZQmB4s2+nYoDgYvuLJnc4E88kfASF\nBOynyTV3HaAojjwdL21pTP9bSRIlb13tHHRPJ+OKEvT+9SsyEAzHJ8W447vQCHi1\n0CuABP86NYFUYTKFua6N2cM2BnFE8c2C1yfl7ws1mVunDrrlvDaVzJSWc1ox8yw/\n9bGKLwyLdSxsUhJ9BknWo0tKkvxpCR/ZEkHcyG257eaIWUmSH3Iw9n46CHJ2CsJ1\nTc/YFFj9f9ddKeYaEc91sKQcyofNQ0n6GSVth88P9+1wuQOe8bIhhL4sGAIpXxg8\n1QIDAQAB\n-----END PUBLIC KEY-----'}
+2022-03-08 20:24:06,701 DEBUG core.py Correct username, starting passwd check.
+2022-03-08 20:24:06,704 DEBUG core.py Auth message = {'response': 511, 'bin': '16eff103b31bec9f3059dcbe1f27761bd00f49e699a58a98c34d10e7c9b3de796505f62e1d8fe4784bb3efdc41a51405f9e443c79190723c9cd3da660ea4a2a2'}
+2022-03-08 20:24:07,228 DEBUG core.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1646760246.7065578, 'account_name': 'user_100'}
+2022-03-08 20:24:07,744 DEBUG core.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1646760247.2594838, 'user': 'user_100'}
+2022-03-08 20:25:01,912 DEBUG core.py Разбор сообщения от клиента : {'action': 'exit', 'time': 1646760301.6518898, 'account_name': 'user_100'}
+2022-03-08 20:25:01,913 INFO core.py Клиент ('127.0.0.1', 59740) отключился от сервера.
+2022-03-08 20:25:03,084 DEBUG server.py Была вызвана функция start c параметрами (<__main__.Server object at 0x0000017D3CFC9C90>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-03-08 20:28:38,955 DEBUG server.py Была вызвана функция _make_config c параметрами (<__main__.Server object at 0x000002580F1D9C90>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции __init__
+2022-03-08 20:28:39,012 INFO core.py Запущен сервер, порт для подключений: 7778 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-03-08 20:29:06,378 DEBUG server.py Была вызвана функция start c параметрами (<__main__.Server object at 0x000002580F1D9C90>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-03-08 20:29:38,782 DEBUG server.py Была вызвана функция _make_config c параметрами (<__main__.Server object at 0x000001A6DBA02EF0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции __init__
+2022-03-08 20:29:38,840 INFO core.py Запущен сервер, порт для подключений: 7778 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2022-03-08 20:29:39,882 INFO core.py Установлено соедение с ПК ('127.0.0.1', 59993)
+2022-03-08 20:29:40,388 DEBUG core.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1646760579.8900545, 'user': {'account_name': 'user_1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAscJd3IT7yHNHh3WJexbs\nJRIC9GXrc1jIrKzT8I6qLb3lhjG7nGKBgc79MxOOtox7EKSAdJ3nhz8kTwR7Vgk9\nbFzEdyW4qqmCqzK6zwYe+LWp1vSadhZs4mXtqXx4mwHxq1KxRxs48YjE/79ILYLM\nF09+aKVtDHtTbJpQ79viwIsHpR3VkENRM/760UQ++eRb6no7RxmX2w7GKUPF8aJG\nZlXQu1tBvScS5L9qxEazEhiIZLAzFNX5CaY093kVte/xOqz7YQhmNmNc89JJFli/\nB6raj2SWoFUmJCkONghWJb+b57B7DghSlpvzRVZVCXt/6OT9ud/Ln63dMlwgLLtV\nmwIDAQAB\n-----END PUBLIC KEY-----'}}
+2022-03-08 20:29:40,389 DEBUG core.py Start auth process for {'account_name': 'user_1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAscJd3IT7yHNHh3WJexbs\nJRIC9GXrc1jIrKzT8I6qLb3lhjG7nGKBgc79MxOOtox7EKSAdJ3nhz8kTwR7Vgk9\nbFzEdyW4qqmCqzK6zwYe+LWp1vSadhZs4mXtqXx4mwHxq1KxRxs48YjE/79ILYLM\nF09+aKVtDHtTbJpQ79viwIsHpR3VkENRM/760UQ++eRb6no7RxmX2w7GKUPF8aJG\nZlXQu1tBvScS5L9qxEazEhiIZLAzFNX5CaY093kVte/xOqz7YQhmNmNc89JJFli/\nB6raj2SWoFUmJCkONghWJb+b57B7DghSlpvzRVZVCXt/6OT9ud/Ln63dMlwgLLtV\nmwIDAQAB\n-----END PUBLIC KEY-----'}
+2022-03-08 20:29:40,394 DEBUG core.py Correct username, starting passwd check.
+2022-03-08 20:29:40,396 DEBUG core.py Auth message = {'response': 511, 'bin': '9edc682d27b5fff38116eaed1e2647389d425003508abad46cc73fcc97bb5f71810bb600580c1c13798ae0816fb296c3ca7feabf1be74d8b02cc7f6d9473d3ca'}
+2022-03-08 20:29:40,923 DEBUG core.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1646760580.3995178, 'account_name': 'user_1'}
+2022-03-08 20:29:41,265 INFO core.py Установлено соедение с ПК ('127.0.0.1', 59996)
+2022-03-08 20:29:41,266 DEBUG core.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1646760580.951516, 'user': 'user_1'}
+2022-03-08 20:29:41,785 DEBUG core.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1646760581.2951503, 'user': {'account_name': 'user_0', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmavp922MoQjxrQRXz9zz\nUs4VLElSaiXobWkcj3zqAWboME83LEe5GU0PqdVjnFBTSPmOLYtusAWCLhWLHol4\nZPfy4G9DKMan6nGK+wasjHKR/voKOcDU2Ko67JDdIUyYMRVs2WZdD+PjbbC2FxxR\n7kACSwsnHuEtyNC6pN6RjCFMOxGaxzliS9Vkj6fNMmfkTIcyWS0zNR2arGt9ZI1f\ngGq+pj+4Tqrak439XxiXwwSj4Z+npxZW4mIM0zwaLBu9YcAcrcokOk0n8kmf6U6J\n3mCgu2ERt4hLbSPdLTZ8XAIBd+2GqAgKAv9B3guLKehNJipxdGiOz+5dcO92skFG\nVQIDAQAB\n-----END PUBLIC KEY-----'}}
+2022-03-08 20:29:41,786 DEBUG core.py Start auth process for {'account_name': 'user_0', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmavp922MoQjxrQRXz9zz\nUs4VLElSaiXobWkcj3zqAWboME83LEe5GU0PqdVjnFBTSPmOLYtusAWCLhWLHol4\nZPfy4G9DKMan6nGK+wasjHKR/voKOcDU2Ko67JDdIUyYMRVs2WZdD+PjbbC2FxxR\n7kACSwsnHuEtyNC6pN6RjCFMOxGaxzliS9Vkj6fNMmfkTIcyWS0zNR2arGt9ZI1f\ngGq+pj+4Tqrak439XxiXwwSj4Z+npxZW4mIM0zwaLBu9YcAcrcokOk0n8kmf6U6J\n3mCgu2ERt4hLbSPdLTZ8XAIBd+2GqAgKAv9B3guLKehNJipxdGiOz+5dcO92skFG\nVQIDAQAB\n-----END PUBLIC KEY-----'}
+2022-03-08 20:29:41,788 DEBUG core.py Correct username, starting passwd check.
+2022-03-08 20:29:41,789 DEBUG core.py Auth message = {'response': 511, 'bin': '6e2dc7806c43dec16bff39b3a48e9a9c9dc5aef1b9109858ad0f5e7c5b12d27aafa370775332ef05a372b3dbc35317d7e48752b539c4e1bed70ece4953ae9128'}
+2022-03-08 20:29:42,317 DEBUG core.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1646760581.7907462, 'account_name': 'user_0'}
+2022-03-08 20:29:42,832 DEBUG core.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1646760582.3494024, 'user': 'user_0'}
+2022-03-08 20:29:56,547 DEBUG core.py Разбор сообщения от клиента : {'action': 'add', 'time': 1646760596.1105099, 'user': 'user_0', 'account_name': 'user_1'}
+2022-03-08 20:29:59,121 DEBUG core.py Разбор сообщения от клиента : {'action': 'pubkey_need', 'time': 1646760598.926295, 'account_name': 'user_1'}
+2022-03-08 20:30:02,167 DEBUG core.py Разбор сообщения от клиента : {'action': 'message', 'from': 'user_0', 'to': 'user_1', 'time': 1646760601.756664, 'mess_text': 'Ws91yUQRM5fqdnrk7CwZA+qbKF/C/g1hgH9LwPfrbZjgqgRE9eyJftE/Y/Bo1p83ODCsnX9K5/MKlrR6z0y0XGDdB73VdME0hkjZ6HFqjOcwp99A9HwzzDJwChwdFDnoRCkawQ2hLRhYTrivOt2VPFNEpzGMGDUb2wEIv+3EK3DF3kFHVGEtYsLIoYPn+vVJFuOPEvHkm/2qv+x+7LuucapdmvxQdWGw74BSktTgvkB1gA8ZSVzVjzNU/HmGFxMbmhxZGHH50OX107Y22AEStAX046bMPGmODf9B21hkfhzKExNkJ16NfkGwD51iNw3ImO6uGzMnieFWc8wFDrjtPw=='}
+2022-03-08 20:30:02,184 INFO core.py Отправлено сообщение пользователю user_1 от пользователя user_0.
+2022-03-08 20:30:04,221 DEBUG core.py Разбор сообщения от клиента : {'action': 'add', 'time': 1646760603.963656, 'user': 'user_1', 'account_name': 'user_0'}
+2022-03-08 20:30:05,265 DEBUG core.py Разбор сообщения от клиента : {'action': 'pubkey_need', 'time': 1646760605.120255, 'account_name': 'user_0'}
+2022-03-08 20:30:08,311 DEBUG core.py Разбор сообщения от клиента : {'action': 'message', 'from': 'user_1', 'to': 'user_0', 'time': 1646760608.191247, 'mess_text': 'a+NGWpbtlEp7IdDpo1uzGnBMCtIUWSY+RG710KfFrb/puLmqqCcZOe6HxSZJZzxzgM0BwHVIlkfa3kWDSoB5deNVdiZqMeyOZ6u/LKnLUngdMJDWOSjZdTWZu70KPMTbwwjNOHtCW+76IRv8LNVfptKVkxQEw9iHnsOlHS3FDaHcLqsq5ibK3RCTCrGzgsC49AQ9mCEHRPx+UrJJKOydlQyfVbFxVkCPI/cUlcjtYJqfxZPQIViQoBMil21TOzqAyQSDr8XPlv0+GKu3yKglSuDeXMc9LItDfaGFFKH14xQMSj4K/OgyLwAz0Q0wURMVZQDYbaJt6EE1GldatFQqNA=='}
+2022-03-08 20:30:08,326 INFO core.py Отправлено сообщение пользователю user_0 от пользователя user_1.
+2022-03-08 20:30:15,458 DEBUG core.py Разбор сообщения от клиента : {'action': 'exit', 'time': 1646760615.2928088, 'account_name': 'user_0'}
+2022-03-08 20:30:15,459 INFO core.py Клиент ('127.0.0.1', 59996) отключился от сервера.
+2022-03-08 20:30:16,011 DEBUG server.py Была вызвана функция start c параметрами (<__main__.Server object at 0x000001A6DBA02EF0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
