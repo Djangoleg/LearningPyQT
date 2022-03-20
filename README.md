@@ -14,8 +14,8 @@ error: Upload failed (400): Invalid value for blake2_256_digest. Error: Use a va
 4) twine upload dist/*
 <!--4) twine upload -r testpypi dist/*-->
 
-Изменённый .pypirc:
-'''
+Изменённый .pypirc:<br>
+<pre>
 [distutils] # this tells distutils what package indexes you can push to
 index-servers =
   pypi
@@ -30,4 +30,4 @@ password: xxxxxxxxxxxx
 repository:  https://test.pypi.org/legacy/
 username: okr 
 password: xxxxxxxxxxxx
-'''
+</pre>
