@@ -1,10 +1,9 @@
 import datetime
-from common.variables import *
 from sqlalchemy import create_engine, Table, Column, Integer, String, Text, MetaData, DateTime
 from sqlalchemy.orm import mapper, sessionmaker
 from sqlalchemy.sql import default_comparator
+from sqlalchemy.dialects import sqlite
 import os
-
 
 
 class ClientDatabase:

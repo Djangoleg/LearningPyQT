@@ -484,3 +484,95 @@ TimeoutError: timed out
 2022-03-20 14:25:57,262 DEBUG transport.py Транспорт завершает работу.
 2022-03-20 14:25:58,002 DEBUG transport.py Потеряно соединение с сервером.
 2022-03-20 14:25:58,008 DEBUG client.py Была вызвана функция start c параметрами (<__main__.Client object at 0x00000289FDACDBA0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-03-20 19:37:50,576 DEBUG client.py Была вызвана функция _get_settings c параметрами (<__main__.Client object at 0x000001E0F3A524A0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-03-20 19:37:50,963 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7778, имя пользователя: user_100
+2022-03-20 19:37:53,976 DEBUG client.py Keys sucsessfully loaded.
+2022-03-20 19:37:54,042 INFO transport.py Попытка подключения №1
+2022-03-20 19:37:57,091 INFO transport.py Попытка подключения №2
+2022-03-20 19:38:00,135 INFO transport.py Попытка подключения №3
+2022-03-20 19:38:03,178 INFO transport.py Попытка подключения №4
+2022-03-20 19:38:06,231 INFO transport.py Попытка подключения №5
+2022-03-20 19:38:09,295 CRITICAL transport.py Не удалось установить соединение с сервером
+2022-03-20 19:51:52,643 DEBUG client.py Была вызвана функция _get_settings c параметрами (<__main__.Client object at 0x0000010DF1E024A0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-03-20 19:51:53,035 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7778, имя пользователя: user_100
+2022-03-20 19:51:53,146 DEBUG client.py Keys sucsessfully loaded.
+2022-03-20 19:51:53,197 INFO transport.py Попытка подключения №1
+2022-03-20 19:51:53,198 DEBUG transport.py Connection established.
+2022-03-20 19:51:53,198 DEBUG transport.py Starting auth dialog.
+2022-03-20 19:51:53,205 DEBUG transport.py Passwd hash ready: b'30334dcff9101fd09916a5e7f19142dc78351833fe709095bee681bba668787f6fef18115f7ec97bf15c828cfcf04f41fb59c918ab0ee76bd9934f4ca6907df3'
+2022-03-20 19:51:53,206 DEBUG transport.py Presense message = {'action': 'presence', 'time': 1647795113.2063494, 'user': {'account_name': 'user_100', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0bbfBT1n5Rg9HZdMLqw7\nKI9Jvj7uqo4NbX5x+3vpiN1iptLbh7ULuKIfTGLHbG60YEFTjhF2mC4dKIS413gY\n4K89784mAzDgA8Lo0Iw5cE7rWAkf6frdIC0kSUDUJOdLRLJFMTJ6D/3oB8FiNfG5\n+XkmmMjmQfUOrRNSjVaRl/qceXnETUZDE/AJBnckXZBFzrMI4zJjDFRH2kJdsj2R\nTPx92zZE9/NR5mTlKehQHGdEJHgvxEY80uwQ61rJhyr4wzl+LMHkUdgDGEuuZewY\n1lsB2gcBgcPREJ69t0qp6/9rMVkxRKmNgr8tc5IUv8saQc7yfL4bFMYbaOlnXUnI\n5QIDAQAB\n-----END PUBLIC KEY-----'}}
+2022-03-20 19:51:53,712 DEBUG transport.py Server response = {'response': 400, 'error': 'Пользователь не зарегистрирован.'}.
+2022-03-20 19:53:47,973 DEBUG client.py Была вызвана функция _get_settings c параметрами (<__main__.Client object at 0x000001F7601A24A0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-03-20 19:53:48,382 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7778, имя пользователя: user_100
+2022-03-20 19:53:48,493 DEBUG client.py Keys sucsessfully loaded.
+2022-03-20 19:53:48,540 INFO transport.py Попытка подключения №1
+2022-03-20 19:53:48,565 DEBUG transport.py Connection established.
+2022-03-20 19:53:48,565 DEBUG transport.py Starting auth dialog.
+2022-03-20 19:53:48,571 DEBUG transport.py Passwd hash ready: b'30334dcff9101fd09916a5e7f19142dc78351833fe709095bee681bba668787f6fef18115f7ec97bf15c828cfcf04f41fb59c918ab0ee76bd9934f4ca6907df3'
+2022-03-20 19:53:48,572 DEBUG transport.py Presense message = {'action': 'presence', 'time': 1647795228.5729992, 'user': {'account_name': 'user_100', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0bbfBT1n5Rg9HZdMLqw7\nKI9Jvj7uqo4NbX5x+3vpiN1iptLbh7ULuKIfTGLHbG60YEFTjhF2mC4dKIS413gY\n4K89784mAzDgA8Lo0Iw5cE7rWAkf6frdIC0kSUDUJOdLRLJFMTJ6D/3oB8FiNfG5\n+XkmmMjmQfUOrRNSjVaRl/qceXnETUZDE/AJBnckXZBFzrMI4zJjDFRH2kJdsj2R\nTPx92zZE9/NR5mTlKehQHGdEJHgvxEY80uwQ61rJhyr4wzl+LMHkUdgDGEuuZewY\n1lsB2gcBgcPREJ69t0qp6/9rMVkxRKmNgr8tc5IUv8saQc7yfL4bFMYbaOlnXUnI\n5QIDAQAB\n-----END PUBLIC KEY-----'}}
+2022-03-20 19:53:49,057 DEBUG transport.py Server response = {'response': 511, 'bin': 'd80357913083b6eff8b6fdafc6b1b0b1b46df202860cbb00fcf1b79de92e9c2ef11c7ca6a442752dff23ce673ad610b4b4cdebad5904ab70d6b287e8f213afc0'}.
+2022-03-20 19:53:49,057 DEBUG transport.py Разбор сообщения от сервера: {'response': 200}
+2022-03-20 19:53:49,057 DEBUG transport.py Запрос списка известных пользователей user_100
+2022-03-20 19:53:49,592 DEBUG transport.py Запрос контакт листа для пользователся Thread-6
+2022-03-20 19:53:49,592 DEBUG transport.py Сформирован запрос {'action': 'get_contacts', 'time': 1647795229.5921938, 'user': 'user_100'}
+2022-03-20 19:53:50,087 DEBUG transport.py Получен ответ {'response': 202, 'data_list': []}
+2022-03-20 19:53:50,087 DEBUG client.py Transport ready.
+2022-03-20 19:53:50,163 DEBUG transport.py Запущен процесс - приёмник собщений с сервера.
+2022-03-20 19:54:22,411 DEBUG transport.py Транспорт завершает работу.
+2022-03-20 19:54:22,970 DEBUG transport.py Потеряно соединение с сервером.
+2022-03-20 19:54:22,975 DEBUG client.py Была вызвана функция start c параметрами (<__main__.Client object at 0x000001F7601A24A0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-03-20 20:41:10,624 DEBUG client.py Была вызвана функция _get_settings c параметрами (<__main__.Client object at 0x000002695FD5E4A0>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-03-20 20:41:11,003 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7778, имя пользователя: user_100
+2022-03-20 20:41:11,112 DEBUG client.py Keys sucsessfully loaded.
+2022-03-20 20:41:11,159 INFO transport.py Попытка подключения №1
+2022-03-20 20:41:14,224 INFO transport.py Попытка подключения №2
+2022-03-20 20:41:17,284 INFO transport.py Попытка подключения №3
+2022-03-20 20:41:20,342 INFO transport.py Попытка подключения №4
+2022-03-20 20:41:23,418 INFO transport.py Попытка подключения №5
+2022-03-20 20:41:26,475 CRITICAL transport.py Не удалось установить соединение с сервером
+2022-03-23 00:16:37,446 DEBUG client.py Была вызвана функция _get_settings c параметрами (<__main__.Client object at 0x000002009CC88700>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-03-23 00:16:37,850 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7778, имя пользователя: user_100
+2022-03-23 00:16:37,980 DEBUG client.py Keys sucsessfully loaded.
+2022-03-23 00:16:38,025 INFO transport.py Попытка подключения №1
+2022-03-23 00:16:38,039 DEBUG transport.py Connection established.
+2022-03-23 00:16:38,039 DEBUG transport.py Starting auth dialog.
+2022-03-23 00:16:38,047 DEBUG transport.py Passwd hash ready: b'30334dcff9101fd09916a5e7f19142dc78351833fe709095bee681bba668787f6fef18115f7ec97bf15c828cfcf04f41fb59c918ab0ee76bd9934f4ca6907df3'
+2022-03-23 00:16:38,048 DEBUG transport.py Presense message = {'action': 'presence', 'time': 1647983798.0488825, 'user': {'account_name': 'user_100', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0bbfBT1n5Rg9HZdMLqw7\nKI9Jvj7uqo4NbX5x+3vpiN1iptLbh7ULuKIfTGLHbG60YEFTjhF2mC4dKIS413gY\n4K89784mAzDgA8Lo0Iw5cE7rWAkf6frdIC0kSUDUJOdLRLJFMTJ6D/3oB8FiNfG5\n+XkmmMjmQfUOrRNSjVaRl/qceXnETUZDE/AJBnckXZBFzrMI4zJjDFRH2kJdsj2R\nTPx92zZE9/NR5mTlKehQHGdEJHgvxEY80uwQ61rJhyr4wzl+LMHkUdgDGEuuZewY\n1lsB2gcBgcPREJ69t0qp6/9rMVkxRKmNgr8tc5IUv8saQc7yfL4bFMYbaOlnXUnI\n5QIDAQAB\n-----END PUBLIC KEY-----'}}
+2022-03-23 00:16:38,541 DEBUG transport.py Server response = {'response': 400, 'error': 'Пользователь не зарегистрирован.'}.
+2022-03-23 00:17:21,032 DEBUG client.py Была вызвана функция _get_settings c параметрами (<__main__.Client object at 0x0000022C67328700>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-03-23 00:17:21,405 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7778, имя пользователя: user_100
+2022-03-23 00:17:21,508 DEBUG client.py Keys sucsessfully loaded.
+2022-03-23 00:17:21,556 INFO transport.py Попытка подключения №1
+2022-03-23 00:17:21,577 DEBUG transport.py Connection established.
+2022-03-23 00:17:21,577 DEBUG transport.py Starting auth dialog.
+2022-03-23 00:17:21,585 DEBUG transport.py Passwd hash ready: b'30334dcff9101fd09916a5e7f19142dc78351833fe709095bee681bba668787f6fef18115f7ec97bf15c828cfcf04f41fb59c918ab0ee76bd9934f4ca6907df3'
+2022-03-23 00:17:21,586 DEBUG transport.py Presense message = {'action': 'presence', 'time': 1647983841.5866811, 'user': {'account_name': 'user_100', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0bbfBT1n5Rg9HZdMLqw7\nKI9Jvj7uqo4NbX5x+3vpiN1iptLbh7ULuKIfTGLHbG60YEFTjhF2mC4dKIS413gY\n4K89784mAzDgA8Lo0Iw5cE7rWAkf6frdIC0kSUDUJOdLRLJFMTJ6D/3oB8FiNfG5\n+XkmmMjmQfUOrRNSjVaRl/qceXnETUZDE/AJBnckXZBFzrMI4zJjDFRH2kJdsj2R\nTPx92zZE9/NR5mTlKehQHGdEJHgvxEY80uwQ61rJhyr4wzl+LMHkUdgDGEuuZewY\n1lsB2gcBgcPREJ69t0qp6/9rMVkxRKmNgr8tc5IUv8saQc7yfL4bFMYbaOlnXUnI\n5QIDAQAB\n-----END PUBLIC KEY-----'}}
+2022-03-23 00:17:22,066 DEBUG transport.py Server response = {'response': 511, 'bin': 'decd1985895c90fe9dfa4e7c25eab71d8e39baea7c957e6e0defca1acd5ea53ff280f15fff6089c2c992656abf604c439b7074bf26c0a17432bfec8ea8a89926'}.
+2022-03-23 00:17:22,067 DEBUG transport.py Разбор сообщения от сервера: {'response': 200}
+2022-03-23 00:17:22,068 DEBUG transport.py Запрос списка известных пользователей user_100
+2022-03-23 00:17:22,621 DEBUG transport.py Запрос контакт листа для пользователся Thread-6
+2022-03-23 00:17:22,621 DEBUG transport.py Сформирован запрос {'action': 'get_contacts', 'time': 1647983842.6211414, 'user': 'user_100'}
+2022-03-23 00:17:23,109 DEBUG transport.py Получен ответ {'response': 202, 'data_list': []}
+2022-03-23 00:17:23,109 DEBUG client.py Transport ready.
+2022-03-23 00:17:23,152 DEBUG transport.py Запущен процесс - приёмник собщений с сервера.
+2022-03-23 00:17:59,597 DEBUG transport.py Транспорт завершает работу.
+2022-03-23 00:18:00,129 DEBUG client.py Была вызвана функция start c параметрами (<__main__.Client object at 0x0000022C67328700>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>
+2022-03-23 02:39:40,968 DEBUG client.py Была вызвана функция _get_settings c параметрами (<__main__.Client object at 0x0000017ACB298670>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции start
+2022-03-23 02:39:41,362 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7778, имя пользователя: user_1
+2022-03-23 02:39:43,105 DEBUG client.py Keys sucsessfully loaded.
+2022-03-23 02:39:43,159 INFO transport.py Попытка подключения №1
+2022-03-23 02:39:43,181 DEBUG transport.py Connection established.
+2022-03-23 02:39:43,181 DEBUG transport.py Starting auth dialog.
+2022-03-23 02:39:43,189 DEBUG transport.py Passwd hash ready: b'40c07b08f1a61b9629aa94e388d87a1ff97561b27996295df560a3a86006962a5e6568003f626b9e9cfa1e39de857b80bb8b1921e154ea6b980e03014fa811c7'
+2022-03-23 02:39:43,189 DEBUG transport.py Presense message = {'action': 'presence', 'time': 1647992383.1893823, 'user': {'account_name': 'user_1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAo15rcpXReGa4fVUTIdUX\nxtvC1Oz207K4MpqVa7Ye5IQZSEoDvVOILLyvHM+0haNqw1xmMdrYjCRuhUzNhwOy\nwOSKzueeX+yszukIu13dwA+RO1hs69ZFeCca+lyXap+AiD1Ef4DwsVZL9SIR9RVg\nAlgJAeZFSozvnOoQKILMG9K8ig/xYbbgfX1/cootsSv3ueSN4tr+jtofSmdYipPO\n8Z5fBZtACJfO/d9XU9xjoclTiqWG4sei9a1rHs7AOGDJ7W3xpVPvgzMcSqOUAFPS\n8xU8qR0TUBDfXCyWX5wGykSWtvV9lbvPfLBOckGpX5jVQhRygpPoYTk2gEKEBI8C\ngwIDAQAB\n-----END PUBLIC KEY-----'}}
+2022-03-23 02:39:43,675 DEBUG transport.py Server response = {'response': 511, 'bin': '5813aa09a26d41810928ca435b9702cb26e7d9e9d022e4f53f382b7322aff1e7e4cba2af937a5c92ebc737afb9eecc34a26767f05b5b493cf922c9a49b6ab54a'}.
+2022-03-23 02:39:43,676 DEBUG transport.py Разбор сообщения от сервера: {'response': 200}
+2022-03-23 02:39:43,676 DEBUG transport.py Запрос списка известных пользователей user_1
+2022-03-23 02:39:44,217 DEBUG transport.py Запрос контакт листа для пользователся Thread-6
+2022-03-23 02:39:44,218 DEBUG transport.py Сформирован запрос {'action': 'get_contacts', 'time': 1647992384.2183173, 'user': 'user_1'}
+2022-03-23 02:39:44,718 DEBUG transport.py Получен ответ {'response': 202, 'data_list': []}
+2022-03-23 02:39:44,719 DEBUG client.py Transport ready.
+2022-03-23 02:39:44,782 DEBUG transport.py Запущен процесс - приёмник собщений с сервера.
+2022-03-23 02:39:48,664 DEBUG transport.py Транспорт завершает работу.
+2022-03-23 02:39:48,841 DEBUG transport.py Потеряно соединение с сервером.
+2022-03-23 02:39:49,174 DEBUG client.py Была вызвана функция start c параметрами (<__main__.Client object at 0x0000017ACB298670>,), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции <module>

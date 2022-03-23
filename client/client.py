@@ -131,5 +131,6 @@ class Client:
 
 
 if __name__ == '__main__':
+    print('start!')
     client = Client()
     client.start()

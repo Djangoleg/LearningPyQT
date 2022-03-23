@@ -1,10 +1,7 @@
-from setuptools import setup, find_packages
+from distutils.core import setup
+import py2exe
 
-setup(name="ok_client_messenger",
-      version="0.1",
-      description="ok_client_messenger",
-      author="Oleg Krechetov",
-      author_email="kr.oleg@gmail.com",
-      packages=find_packages(),
-      install_requires=['PyQt5', 'sqlalchemy', 'pycryptodome', 'pycryptodomex']
-      )
+setup(
+    windows=[{"script": "C:\\Users\\krole\\Documents\\GeekBrains\\LearningPyQt\\Lesson_8\\code_separation\\MyClient\\client.py"}],
+    options={"py2exe": {"includes": ["PyQt5", "PyQt5.sip", "sqlalchemy"]}}
+)
